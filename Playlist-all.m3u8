@@ -1,0 +1,985 @@
+#EXTM3U
+#EXTINF:0,ITV 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/640.m3u8
+#EXTINF:0,ITV 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/641.m3u8
+#EXTINF:0,ITV 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/642.m3u8
+#EXTINF:0,ITV 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/643.m3u8
+#EXTINF:0,BBC 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/644.m3u8
+#EXTINF:0,BBC 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/645.m3u8
+#EXTINF:0,BBC 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/646.m3u8
+#EXTINF:0,BBC 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/647.m3u8
+#EXTINF:0,BBC NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/648.m3u8
+#EXTINF:0,True Movies
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/649.m3u8
+#EXTINF:0,True Movies 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/650.m3u8
+#EXTINF:0,RT NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/651.m3u8
+#EXTINF:0,VOX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/652.m3u8
+#EXTINF:0,4e
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/653.m3u8
+#EXTINF:0,Channel 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/654.m3u8
+#EXTINF:0,Channel 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/655.m3u8
+#EXTINF:0,Gold
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/656.m3u8
+#EXTINF:0,MORE 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/657.m3u8
+#EXTINF:0,Dave
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/658.m3u8
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/659.m3u8
+#EXTINF:0,Fox UK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/660.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/661.m3u8
+#EXTINF:0,Watch
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/662.m3u8
+#EXTINF:0,Pick TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/663.m3u8
+#EXTINF:0,FILM 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/664.m3u8
+#EXTINF:0,TRAVEL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/665.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/667.m3u8
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/668.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/669.m3u8
+#EXTINF:0,Discovery
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/670.m3u8
+#EXTINF:0,CNBC Europ
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/671.m3u8
+#EXTINF:0,BLOOMBERG
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/672.m3u8
+#EXTINF:0,CBS ACTION
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/673.m3u8
+#EXTINF:0,CBS DRAMA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/674.m3u8
+#EXTINF:0,ALIBI
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/675.m3u8
+#EXTINF:0,TG 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/676.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/678.m3u8
+#EXTINF:0,5 Star
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/679.m3u8
+#EXTINF:0,FOX MOVIES
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/680.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/681.m3u8
+#EXTINF:0,MTV CLASSICS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/682.m3u8
+#EXTINF:0,MTV Base
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/683.m3u8
+#EXTINF:0,MTV Dance
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/684.m3u8
+#EXTINF:0,MTV Hits
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/685.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/686.m3u8
+#EXTINF:0,SKYMOVIESDISNEY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/766.m3u8
+#EXTINF:0,3E
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6618.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6718.m3u8
+#EXTINF:0,CNN EUROPE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6818.m3u8
+#EXTINF:0,Sky Living
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6943.m3u8
+#EXTINF:0,SkyAtlantic
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6944.m3u8
+#EXTINF:0,SkyMoviesPremiere
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6945.m3u8
+#EXTINF:0,skyaction
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6946.m3u8
+#EXTINF:0,SKy Comedy
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6947.m3u8
+#EXTINF:0,Sky Family
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6948.m3u8
+#EXTINF:0,SkyMoviesSciFiHorror
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6949.m3u8
+#EXTINF:0,Sky Crime
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6950.m3u8
+#EXTINF:0,Sky Geats
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6951.m3u8
+#EXTINF:0,sky One
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6952.m3u8
+#EXTINF:0,sky two
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/6953.m3u8
+#EXTINF:0,Sky Action
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7011.m3u8
+#EXTINF:0,RTE 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7321.m3u8
+#EXTINF:0,RTE 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7322.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7423.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7468.m3u8
+#EXTINF:0,Warner Bros
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7494.m3u8
+#EXTINF:0,MN PLUS HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7536.m3u8
+#EXTINF:0,DRAMA UK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/7721.m3u8
+#EXTINF:0,MNX HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78398.m3u8
+#EXTINF:0,MOVIES NOW HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78475.m3u8
+#EXTINF:0,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78477.m3u8
+#EXTINF:0,CBS REALITY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78478.m3u8
+#EXTINF:0,TRU TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78491.m3u8
+#EXTINF:0,YESTARDAY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78524.m3u8
+#EXTINF:0,VH1 CLASSIC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78525.m3u8
+#EXTINF:0,5 USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78589.m3u8
+#EXTINF:0,VH1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78592.m3u8
+#EXTINF:0,QUEST TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78593.m3u8
+#EXTINF:0,Channel 4 Seven
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78796.m3u8
+#EXTINF:0,GOOD FOOD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78797.m3u8
+#EXTINF:0,SONY BBC EARTH EN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/78805.m3u8
+#EXTINF:0,DMAX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/42/79106.m3u8
+#EXTINF:0,PTV SPORTS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/337.m3u8
+#EXTINF:0,PTV SPORTS SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/338.m3u8
+#EXTINF:0,GEO SUPER
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/339.m3u8
+#EXTINF:0,TEN SP PAK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/340.m3u8
+#EXTINF:0,TEN 1 HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/343.m3u8
+#EXTINF:0,TEN 2 HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/344.m3u8
+#EXTINF:0,TEN 3 HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/345.m3u8
+#EXTINF:0,TEN 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/346.m3u8
+#EXTINF:0,TEN 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/347.m3u8
+#EXTINF:0,TEN 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/348.m3u8
+#EXTINF:0,STAR SP FRIST
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/350.m3u8
+#EXTINF:0,STAR SP SELECT 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/351.m3u8
+#EXTINF:0,STAR SP SELECT 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/352.m3u8
+#EXTINF:0,STAR SP HD 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/353.m3u8
+#EXTINF:0,STAR SP HD 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/354.m3u8
+#EXTINF:0,STAR SP 1 HD HINDI
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/355.m3u8
+#EXTINF:0,STAR SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/356.m3u8
+#EXTINF:0,STAR SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/357.m3u8
+#EXTINF:0,STAR SP 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/358.m3u8
+#EXTINF:0,STAR SP 1 HINDI
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/359.m3u8
+#EXTINF:0,STAR SP TAMIL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/360.m3u8
+#EXTINF:0,SONY SIX HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/361.m3u8
+#EXTINF:0,SONY SIX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/362.m3u8
+#EXTINF:0,WILLOW CRIC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/364.m3u8
+#EXTINF:0,PREMIER SP
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/365.m3u8
+#EXTINF:0,SKY SP NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/366.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/367.m3u8
+#EXTINF:0,SKY SPORTS CRICKET
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/368.m3u8
+#EXTINF:0,SKY SPORTS ACTION
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/369.m3u8
+#EXTINF:0,SKY SPORTS GOLF
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/370.m3u8
+#EXTINF:0,SKY SPORTS LEAGUE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/371.m3u8
+#EXTINF:0,SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/372.m3u8
+#EXTINF:0,SKY SPORTS FOOTBALL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/373.m3u8
+#EXTINF:0,SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/374.m3u8
+#EXTINF:0,SKY MIX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/375.m3u8
+#EXTINF:0,BT SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/376.m3u8
+#EXTINF:0,BT SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/377.m3u8
+#EXTINF:0,BT SPORTS 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/378.m3u8
+#EXTINF:0,SKY NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/379.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/380.m3u8
+#EXTINF:0,SONY ESPN HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/381.m3u8
+#EXTINF:0,SONY ESPN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/382.m3u8
+#EXTINF:0,EURO SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/384.m3u8
+#EXTINF:0,EURO SP 1 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/385.m3u8
+#EXTINF:0,EURO SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/386.m3u8
+#EXTINF:0,EURO SP 2 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/387.m3u8
+#EXTINF:0,BOX NATION
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/388.m3u8
+#EXTINF:0,Setanta
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/389.m3u8
+#EXTINF:0,Uk Racing
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/391.m3u8
+#EXTINF:0,AT THE RACES
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/392.m3u8
+#EXTINF:0,WWE NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/639.m3u8
+#EXTINF:0,Dubai Sports
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/6964.m3u8
+#EXTINF:0,MUTV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/6979.m3u8
+#EXTINF:0,REAL MADRID
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7148.m3u8
+#EXTINF:0,LFC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7227.m3u8
+#EXTINF:0,BEIN USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7394.m3u8
+#EXTINF:0,BEIN SP NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7395.m3u8
+#EXTINF:0,BEIN 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7400.m3u8
+#EXTINF:0,BEIN 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7401.m3u8
+#EXTINF:0,BEIN 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7402.m3u8
+#EXTINF:0,BEIN 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7403.m3u8
+#EXTINF:0,BEIN 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7404.m3u8
+#EXTINF:0,BEIN 6
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7405.m3u8
+#EXTINF:0,BEIN 7
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7406.m3u8
+#EXTINF:0,BEIN 8
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7407.m3u8
+#EXTINF:0,BEIN 9
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7408.m3u8
+#EXTINF:0,BEIN 10
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7409.m3u8
+#EXTINF:0,BEIN 11
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7410.m3u8
+#EXTINF:0,BEIN 12
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7411.m3u8
+#EXTINF:0,BEIN 13
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7412.m3u8
+#EXTINF:0,Chelsea TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7413.m3u8
+#EXTINF:0,Arena Sports 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7431.m3u8
+#EXTINF:0,Arena Sports 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7432.m3u8
+#EXTINF:0,Arena Sports 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7433.m3u8
+#EXTINF:0,Arena Sports 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7434.m3u8
+#EXTINF:0,Arena Sports 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7435.m3u8
+#EXTINF:0,FOX SPORT 1 USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7436.m3u8
+#EXTINF:0,FOX SPORT 2 USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7437.m3u8
+#EXTINF:0,FOX SPORT 1 NL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7438.m3u8
+#EXTINF:0,FOX SPORT 2 NL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7439.m3u8
+#EXTINF:0,FOX SPORT 3 NL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7440.m3u8
+#EXTINF:0,FOX SPORT 4 NL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7441.m3u8
+#EXTINF:0,FOX SPORT 5 NL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7442.m3u8
+#EXTINF:0,TSN SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7456.m3u8
+#EXTINF:0,TSN SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7457.m3u8
+#EXTINF:0,TSN SPORTS 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7458.m3u8
+#EXTINF:0,TSN SPORTS 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7459.m3u8
+#EXTINF:0,TSN SPORTS 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7460.m3u8
+#EXTINF:0,AD SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7462.m3u8
+#EXTINF:0,AD SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7463.m3u8
+#EXTINF:0,AD SPORTS 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7464.m3u8
+#EXTINF:0,AD SPORTS 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7465.m3u8
+#EXTINF:0,VIASAT FOOTBALL HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7493.m3u8
+#EXTINF:0,NBA TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7497.m3u8
+#EXTINF:0,NBC SN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7500.m3u8
+#EXTINF:0,NFL NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7501.m3u8
+#EXTINF:0,BEIN 1 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7506.m3u8
+#EXTINF:0,BEIN 2 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7507.m3u8
+#EXTINF:0,BEIN 3 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7508.m3u8
+#EXTINF:0,BEIN 4 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7509.m3u8
+#EXTINF:0,BEIN 5 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7510.m3u8
+#EXTINF:0,BEIN 6 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7511.m3u8
+#EXTINF:0,BEIN 7 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7512.m3u8
+#EXTINF:0,BEIN 8 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7513.m3u8
+#EXTINF:0,BEIN 9 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7514.m3u8
+#EXTINF:0,BEIN 10 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7515.m3u8
+#EXTINF:0,BEIN 11 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7516.m3u8
+#EXTINF:0,BEIN 12 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7517.m3u8
+#EXTINF:0,SKY SP MAIN EVENT SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7519.m3u8
+#EXTINF:0,SKY SP CRICKET SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7520.m3u8
+#EXTINF:0,SKY SP ACTION SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7521.m3u8
+#EXTINF:0,SKY SP GOLF SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7522.m3u8
+#EXTINF:0,SKY SP LEAGUE SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7523.m3u8
+#EXTINF:0,SKY SP ARENA SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7524.m3u8
+#EXTINF:0,SKY SP FOOTBALL SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7525.m3u8
+#EXTINF:0,BT 1 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7526.m3u8
+#EXTINF:0,BT 2 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7527.m3u8
+#EXTINF:0,BT 3 SD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7528.m3u8
+#EXTINF:0,OSN CRICKET
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7560.m3u8
+#EXTINF:0,BEIN FR 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7563.m3u8
+#EXTINF:0,BEIN FR 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7564.m3u8
+#EXTINF:0,BEIN FR 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7565.m3u8
+#EXTINF:0,Al Kass SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7590.m3u8
+#EXTINF:0,Al Kass SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7591.m3u8
+#EXTINF:0,Al Kass SP 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7592.m3u8
+#EXTINF:0,Al Kass SP 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7593.m3u8
+#EXTINF:0,Sports Tv 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7688.m3u8
+#EXTINF:0,Sports Tv 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7689.m3u8
+#EXTINF:0,Sports Tv 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7690.m3u8
+#EXTINF:0,Sports Tv 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7691.m3u8
+#EXTINF:0,Sports Tv 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7692.m3u8
+#EXTINF:0,BENFICA TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7803.m3u8
+#EXTINF:0,OSN SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7828.m3u8
+#EXTINF:0,OSN SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7829.m3u8
+#EXTINF:0,SKY SP 1 ITALY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7904.m3u8
+#EXTINF:0,SPORT KLUB 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7908.m3u8
+#EXTINF:0,SPORT KLUB 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7909.m3u8
+#EXTINF:0,SPORT KLUB 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7910.m3u8
+#EXTINF:0,SKYNET HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7911.m3u8
+#EXTINF:0,SPORTSNET WOLRD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7912.m3u8
+#EXTINF:0,SPORTSNET ONTARIO
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7914.m3u8
+#EXTINF:0,SPORTSNET ONE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7915.m3u8
+#EXTINF:0,SPORTSNET 360
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7916.m3u8
+#EXTINF:0,SUPER SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7949.m3u8
+#EXTINF:0,SUPER SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7950.m3u8
+#EXTINF:0,SUPER SPORTS 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7951.m3u8
+#EXTINF:0,SUPER SPORTS 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/7952.m3u8
+#EXTINF:0,ZIGGO SELECT
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78446.m3u8
+#EXTINF:0,EIR SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78447.m3u8
+#EXTINF:0,EIR SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78448.m3u8
+#EXTINF:0,DIGI SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78492.m3u8
+#EXTINF:0,DIGI SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78493.m3u8
+#EXTINF:0,DIGI SPORTS 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78494.m3u8
+#EXTINF:0,DIGI SPORTS 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78495.m3u8
+#EXTINF:0,FIGHTBOX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78496.m3u8
+#EXTINF:0,SKY SP 1 DE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78522.m3u8
+#EXTINF:0,SKY SP 2 DE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78523.m3u8
+#EXTINF:0,D SPORTS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78531.m3u8
+#EXTINF:0,SFR SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78532.m3u8
+#EXTINF:0,SFR SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78533.m3u8
+#EXTINF:0,SFR SP 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78534.m3u8
+#EXTINF:0,FREE SPORTS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78908.m3u8
+#EXTINF:0,SKY BOX OFFICE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/78986.m3u8
+#EXTINF:0,BT ESPN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79011.m3u8
+#EXTINF:0,OTE SP 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79124.m3u8
+#EXTINF:0,OTE SP 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79125.m3u8
+#EXTINF:0,OTE SP 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79126.m3u8
+#EXTINF:0,OTE SP 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79127.m3u8
+#EXTINF:0,OTE SP 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79128.m3u8
+#EXTINF:0,OTE SP 6
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79296.m3u8
+#EXTINF:0,OTE SP 7
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79297.m3u8
+#EXTINF:0,OTE SP 8
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79375.m3u8
+#EXTINF:0,BEOUTQ 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79410.m3u8
+#EXTINF:0,BEOUTQ 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79411.m3u8
+#EXTINF:0,BEOUTQ 3
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79412.m3u8
+#EXTINF:0,BEOUTQ 4
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79413.m3u8
+#EXTINF:0,BEOUTQ 5
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79414.m3u8
+#EXTINF:0,BEOUTQ 6
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79415.m3u8
+#EXTINF:0,BEOUTQ 7
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79416.m3u8
+#EXTINF:0,ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79510.m3u8
+#EXTINF:0,KSA SPORTS 1
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79520.m3u8
+#EXTINF:0,KSA SPORTS 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79521.m3u8
+#EXTINF:0,UFC FIGHT
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79560.m3u8
+#EXTINF:0,SPORTS MAX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79718.m3u8
+#EXTINF:0,SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79719.m3u8
+#EXTINF:0,SPORTS MAX CRICKET
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/36/79743.m3u8
+#EXTINF:0,USA NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/677.m3u8
+#EXTINF:0,SYFY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7476.m3u8
+#EXTINF:0,ABC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7477.m3u8
+#EXTINF:0,AMC USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7478.m3u8
+#EXTINF:0,HBO ZONE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7566.m3u8
+#EXTINF:0,HBO SINGNATURE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7567.m3u8
+#EXTINF:0,HBO COMEDY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7568.m3u8
+#EXTINF:0,Discovery USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7724.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7754.m3u8
+#EXTINF:0,FOX NEWS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/7867.m3u8
+#EXTINF:0,ROMEDY NOW
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78399.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78413.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78476.m3u8
+#EXTINF:0,SPIKE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78479.m3u8
+#EXTINF:0,LIFETIME
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78488.m3u8
+#EXTINF:0,TNT TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78490.m3u8
+#EXTINF:0,CBS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78526.m3u8
+#EXTINF:0,STARZ HD
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78537.m3u8
+#EXTINF:0,STARZ WEST
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78538.m3u8
+#EXTINF:0,STARZ COMEDY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78539.m3u8
+#EXTINF:0,STARZ EDGE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78540.m3u8
+#EXTINF:0,BRAVO
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78541.m3u8
+#EXTINF:0,CW TV
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78542.m3u8
+#EXTINF:0,E ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78543.m3u8
+#EXTINF:0,SHOWTIME
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78544.m3u8
+#EXTINF:0,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78547.m3u8
+#EXTINF:0,HISTORY US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78548.m3u8
+#EXTINF:0,TBS
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78549.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78550.m3u8
+#EXTINF:0,MOVIETIME
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78551.m3u8
+#EXTINF:0,NAT GEO
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78554.m3u8
+#EXTINF:0,FOX US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78555.m3u8
+#EXTINF:0,CNN US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78665.m3u8
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78666.m3u8
+#EXTINF:0,NICK AT NITE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78667.m3u8
+#EXTINF:0,OWN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78716.m3u8
+#EXTINF:0,HALLMARK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78735.m3u8
+#EXTINF:0,TLC USA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78736.m3u8
+#EXTINF:0,BET
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78737.m3u8
+#EXTINF:0,LMN US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78738.m3u8
+#EXTINF:0,SUNDANCE
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78739.m3u8
+#EXTINF:0,FXX
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78740.m3u8
+#EXTINF:0,VH1 US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78742.m3u8
+#EXTINF:0,SEC NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78743.m3u8
+#EXTINF:0,MLB NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78744.m3u8
+#EXTINF:0,FREEFROM
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78746.m3u8
+#EXTINF:0,DISNEY CH US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78747.m3u8
+#EXTINF:0,DISCOVERY SCI
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78751.m3u8
+#EXTINF:0,DISCOVERY VELOCITY
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78752.m3u8
+#EXTINF:0,EL REY NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78753.m3u8
+#EXTINF:0,TV LAND
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78754.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78755.m3u8
+#EXTINF:0,TENNIS CHANNEL
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78756.m3u8
+#EXTINF:0,BBC AMERICA
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78757.m3u8
+#EXTINF:0,MSNBC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78758.m3u8
+#EXTINF:0,BIG TEN NETWORK
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78759.m3u8
+#EXTINF:0,GSN
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78760.m3u8
+#EXTINF:0,IFC
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78761.m3u8
+#EXTINF:0,ANIMAL PLANET US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78762.m3u8
+#EXTINF:0,CARTOON NET US
+#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
+http://56af988a-stream.nmbs.top/c/41/78763.m3u8
