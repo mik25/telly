@@ -983,6 +983,16 @@ http://56af988a-stream.nmbs.top/c/41/78762.m3u8
 #EXTINF:0,CARTOON NET US
 #EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/41/78763.m3u8
+
+?????????????????????UFC<<<<<<<<<<<<<<<<<<
+#EXTM3U
+#EXTINF:-1,UFC Fight Night Pass
+http://193.200.164.165:83/JASON39954/Zf0AptfNSL/254856
+#EXTINF:-1,UFC Fight Pass SD
+http://193.200.164.165:83/JASON39954/Zf0AptfNSL/262820
+#EXTINF:-1,Backup PPV: UFC FIGHT PASS
+http://193.200.164.165:83/JASON39954/Zf0AptfNSL/257018
+
 #EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Walking Dead Season S08E01
 https://www.tvstream.appboxes.co/tv/Walking%20dead/walking%20dead%20s8/The.Walking.Dead.S08E01.HDTV.x264-SVA%5Beztv%5D.mkv
