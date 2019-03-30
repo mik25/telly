@@ -983,7 +983,37 @@ http://56af988a-stream.nmbs.top/c/41/78762.m3u8
 #EXTINF:0,CARTOON NET US
 #EXTVLCOPT:http-user-agent=MediaPlayer/1.0
 http://56af988a-stream.nmbs.top/c/41/78763.m3u8
->>>>>>>>>>>>>>>>>>>>    <<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>> 2  <<<<<<<<<<<<<<<<<
+#EXTM3U 
+#EXTINF:-1,DisneyPH http://190.13.120.115/streams/disneyph.m3u8
+#EXTINF:-1,DisneyXD http://190.13.120.115/streams/disneyxd.m3u8
+#EXTINF:-1,NBC http://190.13.120.115/streams/nbc.m3u8
+#EXTINF:-1,Outdoor Channel http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:-1,TBS http://190.13.120.115/streams/tbs.m3u8
+#EXTINF:-1,Babytv http://190.13.120.114/streams/babytv.m3u8 
+#EXTINF:-1,BBCAmerica http://190.13.120.114/streams/bbcamerica.m3u8 
+#EXTINF:-1,BBCWord http://190.13.120.114/streams/bbcworld.m3u8 
+#EXTINF:-1,FX http://190.13.120.114/streams/fx.m3u8 
+#EXTINF:-1,TNT http://190.13.120.114/streams/tnt.m3u8 
+#EXTINF:-1,Biography http://190.13.120.113/streams/biography.m3u8 
+#EXTINF:-1,HGTV http://190.13.120.113/streams/hgtv.m3u8 
+#EXTINF:-1,History http://190.13.120.113/streams/history.m3u8 
+#EXTINF:-1,Style http://190.13.120.113/streams/style.m3u8 
+#EXTINF:-1,Syfy http://190.13.120.113/streams/syfy.m3u8 
+#EXTINF:-1,BVN http://190.13.120.112/streams/bvn.m3u8 
+#EXTINF:-1,DIY http://190.13.120.112/streams/diy.m3u8 
+#EXTINF:-1,Food http://190.13.120.112/streams/food.m3u8 
+#EXTINF:-1,NL2 http://190.13.120.112/streams/nederland2.m3u8 
+#EXTINF:-1,NL3 http://190.13.120.112/streams/nederland3.m3u8 
+#EXTİNF:-1,natgeo http://190.13.120.117/streams/natgeo.m3u8 
+#EXTİNF:-1,much music http://190.13.120.117/streams/muchmusic.m3u8 
+#EXTİNF:-1,discovery sci http://190.13.120.117/streams/discoveryscience.m3u8 
+#EXTİNF:-1,discovery home http://190.13.120.117/streams/discoveryhome.m3u8 
+#EXTİNF:-1,discovery civilization http://190.13.120.117/streams/discoverycivilization.m3u8
+#EXTİNF:-1,topfight http://203.154.243.32:8088/live/topfight/index.m3u8
+#EXTİNF:-1,ESPN HD http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTİNF:-1,NBA http://203.154.243.32:8088/live/nba/index.m3u8 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTİNF:-1,MUTV https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 ?????????????????????UFC<<<<<<<<<<<<<<<<<<
 #EXTM3U
 #EXTINF:-1,UFC Fight Night Pass
