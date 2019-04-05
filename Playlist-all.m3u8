@@ -1,988 +1,669 @@
 #EXTM3U
-#EXTINF:0,ITV 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/640.m3u8
-#EXTINF:0,ITV 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/641.m3u8
-#EXTINF:0,ITV 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/642.m3u8
-#EXTINF:0,ITV 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/643.m3u8
-#EXTINF:0,BBC 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/644.m3u8
-#EXTINF:0,BBC 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/645.m3u8
-#EXTINF:0,BBC 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/646.m3u8
-#EXTINF:0,BBC 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/647.m3u8
-#EXTINF:0,BBC NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/648.m3u8
-#EXTINF:0,True Movies
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/649.m3u8
-#EXTINF:0,True Movies 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/650.m3u8
-#EXTINF:0,RT NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/651.m3u8
-#EXTINF:0,VOX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/652.m3u8
-#EXTINF:0,4e
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/653.m3u8
-#EXTINF:0,Channel 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/654.m3u8
-#EXTINF:0,Channel 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/655.m3u8
-#EXTINF:0,Gold
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/656.m3u8
-#EXTINF:0,MORE 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/657.m3u8
-#EXTINF:0,Dave
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/658.m3u8
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/659.m3u8
-#EXTINF:0,Fox UK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/660.m3u8
-#EXTINF:0,Universal
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/661.m3u8
-#EXTINF:0,Watch
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/662.m3u8
-#EXTINF:0,Pick TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/663.m3u8
-#EXTINF:0,FILM 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/664.m3u8
-#EXTINF:0,TRAVEL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/665.m3u8
-#EXTINF:0,DISCOVERY HISTORY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/667.m3u8
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/668.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/669.m3u8
-#EXTINF:0,Discovery
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/670.m3u8
-#EXTINF:0,CNBC Europ
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/671.m3u8
-#EXTINF:0,BLOOMBERG
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/672.m3u8
-#EXTINF:0,CBS ACTION
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/673.m3u8
-#EXTINF:0,CBS DRAMA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/674.m3u8
-#EXTINF:0,ALIBI
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/675.m3u8
-#EXTINF:0,TG 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/676.m3u8
-#EXTINF:0,TCM
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/678.m3u8
-#EXTINF:0,5 Star
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/679.m3u8
-#EXTINF:0,FOX MOVIES
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/680.m3u8
-#EXTINF:0,MTV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/681.m3u8
-#EXTINF:0,MTV CLASSICS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/682.m3u8
-#EXTINF:0,MTV Base
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/683.m3u8
-#EXTINF:0,MTV Dance
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/684.m3u8
-#EXTINF:0,MTV Hits
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/685.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/686.m3u8
-#EXTINF:0,SKYMOVIESDISNEY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/766.m3u8
-#EXTINF:0,3E
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6618.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6718.m3u8
-#EXTINF:0,CNN EUROPE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6818.m3u8
-#EXTINF:0,Sky Living
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6943.m3u8
-#EXTINF:0,SkyAtlantic
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6944.m3u8
-#EXTINF:0,SkyMoviesPremiere
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6945.m3u8
-#EXTINF:0,skyaction
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6946.m3u8
-#EXTINF:0,SKy Comedy
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6947.m3u8
-#EXTINF:0,Sky Family
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6948.m3u8
-#EXTINF:0,SkyMoviesSciFiHorror
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6949.m3u8
-#EXTINF:0,Sky Crime
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6950.m3u8
-#EXTINF:0,Sky Geats
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6951.m3u8
-#EXTINF:0,sky One
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6952.m3u8
-#EXTINF:0,sky two
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/6953.m3u8
-#EXTINF:0,Sky Action
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7011.m3u8
-#EXTINF:0,RTE 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7321.m3u8
-#EXTINF:0,RTE 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7322.m3u8
-#EXTINF:0,AXN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7423.m3u8
-#EXTINF:0,HBO
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7468.m3u8
-#EXTINF:0,Warner Bros
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7494.m3u8
-#EXTINF:0,MN PLUS HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7536.m3u8
-#EXTINF:0,DRAMA UK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/7721.m3u8
-#EXTINF:0,MNX HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78398.m3u8
-#EXTINF:0,MOVIES NOW HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78475.m3u8
-#EXTINF:0,FOOD NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78477.m3u8
-#EXTINF:0,CBS REALITY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78478.m3u8
-#EXTINF:0,TRU TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78491.m3u8
-#EXTINF:0,YESTARDAY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78524.m3u8
-#EXTINF:0,VH1 CLASSIC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78525.m3u8
-#EXTINF:0,5 USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78589.m3u8
-#EXTINF:0,VH1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78592.m3u8
-#EXTINF:0,QUEST TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78593.m3u8
-#EXTINF:0,Channel 4 Seven
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78796.m3u8
-#EXTINF:0,GOOD FOOD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78797.m3u8
-#EXTINF:0,SONY BBC EARTH EN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/78805.m3u8
-#EXTINF:0,DMAX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/42/79106.m3u8
-#EXTINF:0,PTV SPORTS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/337.m3u8
-#EXTINF:0,PTV SPORTS SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/338.m3u8
-#EXTINF:0,GEO SUPER
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/339.m3u8
-#EXTINF:0,TEN SP PAK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/340.m3u8
-#EXTINF:0,TEN 1 HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/343.m3u8
-#EXTINF:0,TEN 2 HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/344.m3u8
-#EXTINF:0,TEN 3 HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/345.m3u8
-#EXTINF:0,TEN 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/346.m3u8
-#EXTINF:0,TEN 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/347.m3u8
-#EXTINF:0,TEN 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/348.m3u8
-#EXTINF:0,STAR SP FRIST
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/350.m3u8
-#EXTINF:0,STAR SP SELECT 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/351.m3u8
-#EXTINF:0,STAR SP SELECT 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/352.m3u8
-#EXTINF:0,STAR SP HD 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/353.m3u8
-#EXTINF:0,STAR SP HD 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/354.m3u8
-#EXTINF:0,STAR SP 1 HD HINDI
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/355.m3u8
-#EXTINF:0,STAR SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/356.m3u8
-#EXTINF:0,STAR SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/357.m3u8
-#EXTINF:0,STAR SP 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/358.m3u8
-#EXTINF:0,STAR SP 1 HINDI
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/359.m3u8
-#EXTINF:0,STAR SP TAMIL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/360.m3u8
-#EXTINF:0,SONY SIX HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/361.m3u8
-#EXTINF:0,SONY SIX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/362.m3u8
-#EXTINF:0,WILLOW CRIC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/364.m3u8
-#EXTINF:0,PREMIER SP
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/365.m3u8
-#EXTINF:0,SKY SP NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/366.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/367.m3u8
-#EXTINF:0,SKY SPORTS CRICKET
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/368.m3u8
-#EXTINF:0,SKY SPORTS ACTION
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/369.m3u8
-#EXTINF:0,SKY SPORTS GOLF
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/370.m3u8
-#EXTINF:0,SKY SPORTS LEAGUE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/371.m3u8
-#EXTINF:0,SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/372.m3u8
-#EXTINF:0,SKY SPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/373.m3u8
-#EXTINF:0,SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/374.m3u8
-#EXTINF:0,SKY MIX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/375.m3u8
-#EXTINF:0,BT SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/376.m3u8
-#EXTINF:0,BT SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/377.m3u8
-#EXTINF:0,BT SPORTS 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/378.m3u8
-#EXTINF:0,SKY NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/379.m3u8
-#EXTINF:0,ESPN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/380.m3u8
-#EXTINF:0,SONY ESPN HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/381.m3u8
-#EXTINF:0,SONY ESPN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/382.m3u8
-#EXTINF:0,EURO SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/384.m3u8
-#EXTINF:0,EURO SP 1 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/385.m3u8
-#EXTINF:0,EURO SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/386.m3u8
-#EXTINF:0,EURO SP 2 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/387.m3u8
-#EXTINF:0,BOX NATION
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/388.m3u8
-#EXTINF:0,Setanta
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/389.m3u8
-#EXTINF:0,Uk Racing
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/391.m3u8
-#EXTINF:0,AT THE RACES
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/392.m3u8
-#EXTINF:0,WWE NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/639.m3u8
-#EXTINF:0,Dubai Sports
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/6964.m3u8
-#EXTINF:0,MUTV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/6979.m3u8
-#EXTINF:0,REAL MADRID
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7148.m3u8
-#EXTINF:0,LFC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7227.m3u8
-#EXTINF:0,BEIN USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7394.m3u8
-#EXTINF:0,BEIN SP NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7395.m3u8
-#EXTINF:0,BEIN 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7400.m3u8
-#EXTINF:0,BEIN 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7401.m3u8
-#EXTINF:0,BEIN 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7402.m3u8
-#EXTINF:0,BEIN 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7403.m3u8
-#EXTINF:0,BEIN 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7404.m3u8
-#EXTINF:0,BEIN 6
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7405.m3u8
-#EXTINF:0,BEIN 7
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7406.m3u8
-#EXTINF:0,BEIN 8
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7407.m3u8
-#EXTINF:0,BEIN 9
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7408.m3u8
-#EXTINF:0,BEIN 10
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7409.m3u8
-#EXTINF:0,BEIN 11
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7410.m3u8
-#EXTINF:0,BEIN 12
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7411.m3u8
-#EXTINF:0,BEIN 13
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7412.m3u8
-#EXTINF:0,Chelsea TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7413.m3u8
-#EXTINF:0,Arena Sports 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7431.m3u8
-#EXTINF:0,Arena Sports 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7432.m3u8
-#EXTINF:0,Arena Sports 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7433.m3u8
-#EXTINF:0,Arena Sports 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7434.m3u8
-#EXTINF:0,Arena Sports 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7435.m3u8
-#EXTINF:0,FOX SPORT 1 USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7436.m3u8
-#EXTINF:0,FOX SPORT 2 USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7437.m3u8
-#EXTINF:0,FOX SPORT 1 NL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7438.m3u8
-#EXTINF:0,FOX SPORT 2 NL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7439.m3u8
-#EXTINF:0,FOX SPORT 3 NL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7440.m3u8
-#EXTINF:0,FOX SPORT 4 NL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7441.m3u8
-#EXTINF:0,FOX SPORT 5 NL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7442.m3u8
-#EXTINF:0,TSN SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7456.m3u8
-#EXTINF:0,TSN SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7457.m3u8
-#EXTINF:0,TSN SPORTS 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7458.m3u8
-#EXTINF:0,TSN SPORTS 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7459.m3u8
-#EXTINF:0,TSN SPORTS 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7460.m3u8
-#EXTINF:0,AD SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7462.m3u8
-#EXTINF:0,AD SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7463.m3u8
-#EXTINF:0,AD SPORTS 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7464.m3u8
-#EXTINF:0,AD SPORTS 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7465.m3u8
-#EXTINF:0,VIASAT FOOTBALL HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7493.m3u8
-#EXTINF:0,NBA TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7497.m3u8
-#EXTINF:0,NBC SN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7500.m3u8
-#EXTINF:0,NFL NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7501.m3u8
-#EXTINF:0,BEIN 1 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7506.m3u8
-#EXTINF:0,BEIN 2 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7507.m3u8
-#EXTINF:0,BEIN 3 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7508.m3u8
-#EXTINF:0,BEIN 4 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7509.m3u8
-#EXTINF:0,BEIN 5 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7510.m3u8
-#EXTINF:0,BEIN 6 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7511.m3u8
-#EXTINF:0,BEIN 7 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7512.m3u8
-#EXTINF:0,BEIN 8 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7513.m3u8
-#EXTINF:0,BEIN 9 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7514.m3u8
-#EXTINF:0,BEIN 10 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7515.m3u8
-#EXTINF:0,BEIN 11 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7516.m3u8
-#EXTINF:0,BEIN 12 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7517.m3u8
-#EXTINF:0,SKY SP MAIN EVENT SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7519.m3u8
-#EXTINF:0,SKY SP CRICKET SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7520.m3u8
-#EXTINF:0,SKY SP ACTION SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7521.m3u8
-#EXTINF:0,SKY SP GOLF SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7522.m3u8
-#EXTINF:0,SKY SP LEAGUE SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7523.m3u8
-#EXTINF:0,SKY SP ARENA SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7524.m3u8
-#EXTINF:0,SKY SP FOOTBALL SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7525.m3u8
-#EXTINF:0,BT 1 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7526.m3u8
-#EXTINF:0,BT 2 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7527.m3u8
-#EXTINF:0,BT 3 SD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7528.m3u8
-#EXTINF:0,OSN CRICKET
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7560.m3u8
-#EXTINF:0,BEIN FR 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7563.m3u8
-#EXTINF:0,BEIN FR 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7564.m3u8
-#EXTINF:0,BEIN FR 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7565.m3u8
-#EXTINF:0,Al Kass SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7590.m3u8
-#EXTINF:0,Al Kass SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7591.m3u8
-#EXTINF:0,Al Kass SP 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7592.m3u8
-#EXTINF:0,Al Kass SP 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7593.m3u8
-#EXTINF:0,Sports Tv 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7688.m3u8
-#EXTINF:0,Sports Tv 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7689.m3u8
-#EXTINF:0,Sports Tv 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7690.m3u8
-#EXTINF:0,Sports Tv 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7691.m3u8
-#EXTINF:0,Sports Tv 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7692.m3u8
-#EXTINF:0,BENFICA TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7803.m3u8
-#EXTINF:0,OSN SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7828.m3u8
-#EXTINF:0,OSN SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7829.m3u8
-#EXTINF:0,SKY SP 1 ITALY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7904.m3u8
-#EXTINF:0,SPORT KLUB 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7908.m3u8
-#EXTINF:0,SPORT KLUB 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7909.m3u8
-#EXTINF:0,SPORT KLUB 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7910.m3u8
-#EXTINF:0,SKYNET HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7911.m3u8
-#EXTINF:0,SPORTSNET WOLRD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7912.m3u8
-#EXTINF:0,SPORTSNET ONTARIO
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7914.m3u8
-#EXTINF:0,SPORTSNET ONE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7915.m3u8
-#EXTINF:0,SPORTSNET 360
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7916.m3u8
-#EXTINF:0,SUPER SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7949.m3u8
-#EXTINF:0,SUPER SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7950.m3u8
-#EXTINF:0,SUPER SPORTS 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7951.m3u8
-#EXTINF:0,SUPER SPORTS 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/7952.m3u8
-#EXTINF:0,ZIGGO SELECT
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78446.m3u8
-#EXTINF:0,EIR SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78447.m3u8
-#EXTINF:0,EIR SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78448.m3u8
-#EXTINF:0,DIGI SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78492.m3u8
-#EXTINF:0,DIGI SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78493.m3u8
-#EXTINF:0,DIGI SPORTS 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78494.m3u8
-#EXTINF:0,DIGI SPORTS 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78495.m3u8
-#EXTINF:0,FIGHTBOX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78496.m3u8
-#EXTINF:0,SKY SP 1 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78522.m3u8
-#EXTINF:0,SKY SP 2 DE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78523.m3u8
-#EXTINF:0,D SPORTS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78531.m3u8
-#EXTINF:0,SFR SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78532.m3u8
-#EXTINF:0,SFR SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78533.m3u8
-#EXTINF:0,SFR SP 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78534.m3u8
-#EXTINF:0,FREE SPORTS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78908.m3u8
-#EXTINF:0,SKY BOX OFFICE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/78986.m3u8
-#EXTINF:0,BT ESPN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79011.m3u8
-#EXTINF:0,OTE SP 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79124.m3u8
-#EXTINF:0,OTE SP 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79125.m3u8
-#EXTINF:0,OTE SP 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79126.m3u8
-#EXTINF:0,OTE SP 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79127.m3u8
-#EXTINF:0,OTE SP 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79128.m3u8
-#EXTINF:0,OTE SP 6
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79296.m3u8
-#EXTINF:0,OTE SP 7
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79297.m3u8
-#EXTINF:0,OTE SP 8
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79375.m3u8
-#EXTINF:0,BEOUTQ 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79410.m3u8
-#EXTINF:0,BEOUTQ 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79411.m3u8
-#EXTINF:0,BEOUTQ 3
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79412.m3u8
-#EXTINF:0,BEOUTQ 4
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79413.m3u8
-#EXTINF:0,BEOUTQ 5
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79414.m3u8
-#EXTINF:0,BEOUTQ 6
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79415.m3u8
-#EXTINF:0,BEOUTQ 7
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79416.m3u8
-#EXTINF:0,ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79510.m3u8
-#EXTINF:0,KSA SPORTS 1
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79520.m3u8
-#EXTINF:0,KSA SPORTS 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79521.m3u8
-#EXTINF:0,UFC FIGHT
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79560.m3u8
-#EXTINF:0,SPORTS MAX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79718.m3u8
-#EXTINF:0,SPORTS MAX 2
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79719.m3u8
-#EXTINF:0,SPORTS MAX CRICKET
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/36/79743.m3u8
-#EXTINF:0,USA NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/677.m3u8
-#EXTINF:0,SYFY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7476.m3u8
-#EXTINF:0,ABC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7477.m3u8
-#EXTINF:0,AMC USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7478.m3u8
-#EXTINF:0,HBO ZONE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7566.m3u8
-#EXTINF:0,HBO SINGNATURE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7567.m3u8
-#EXTINF:0,HBO COMEDY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7568.m3u8
-#EXTINF:0,Discovery USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7724.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7754.m3u8
-#EXTINF:0,FOX NEWS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/7867.m3u8
-#EXTINF:0,ROMEDY NOW
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78399.m3u8
-#EXTINF:0,FX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78413.m3u8
-#EXTINF:0,HGTV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78476.m3u8
-#EXTINF:0,SPIKE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78479.m3u8
-#EXTINF:0,LIFETIME
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78488.m3u8
-#EXTINF:0,TNT TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78490.m3u8
-#EXTINF:0,CBS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78526.m3u8
-#EXTINF:0,STARZ HD
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78537.m3u8
-#EXTINF:0,STARZ WEST
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78538.m3u8
-#EXTINF:0,STARZ COMEDY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78539.m3u8
-#EXTINF:0,STARZ EDGE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78540.m3u8
-#EXTINF:0,BRAVO
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78541.m3u8
-#EXTINF:0,CW TV
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78542.m3u8
-#EXTINF:0,E ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78543.m3u8
-#EXTINF:0,SHOWTIME
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78544.m3u8
-#EXTINF:0,FOOD NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78547.m3u8
-#EXTINF:0,HISTORY US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78548.m3u8
-#EXTINF:0,TBS
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78549.m3u8
-#EXTINF:0,COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78550.m3u8
-#EXTINF:0,MOVIETIME
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78551.m3u8
-#EXTINF:0,NAT GEO
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78554.m3u8
-#EXTINF:0,FOX US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78555.m3u8
-#EXTINF:0,CNN US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78665.m3u8
-#EXTINF:0,CINEMAX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78666.m3u8
-#EXTINF:0,NICK AT NITE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78667.m3u8
-#EXTINF:0,OWN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78716.m3u8
-#EXTINF:0,HALLMARK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78735.m3u8
-#EXTINF:0,TLC USA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78736.m3u8
-#EXTINF:0,BET
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78737.m3u8
-#EXTINF:0,LMN US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78738.m3u8
-#EXTINF:0,SUNDANCE
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78739.m3u8
-#EXTINF:0,FXX
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78740.m3u8
-#EXTINF:0,VH1 US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78742.m3u8
-#EXTINF:0,SEC NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78743.m3u8
-#EXTINF:0,MLB NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78744.m3u8
-#EXTINF:0,FREEFROM
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78746.m3u8
-#EXTINF:0,DISNEY CH US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78747.m3u8
-#EXTINF:0,DISCOVERY SCI
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78751.m3u8
-#EXTINF:0,DISCOVERY VELOCITY
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78752.m3u8
-#EXTINF:0,EL REY NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78753.m3u8
-#EXTINF:0,TV LAND
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78754.m3u8
-#EXTINF:0,TRAVEL CHANNEL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78755.m3u8
-#EXTINF:0,TENNIS CHANNEL
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78756.m3u8
-#EXTINF:0,BBC AMERICA
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78757.m3u8
-#EXTINF:0,MSNBC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78758.m3u8
-#EXTINF:0,BIG TEN NETWORK
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78759.m3u8
-#EXTINF:0,GSN
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78760.m3u8
-#EXTINF:0,IFC
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78761.m3u8
-#EXTINF:0,ANIMAL PLANET US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78762.m3u8
-#EXTINF:0,CARTOON NET US
-#EXTVLCOPT:http-user-agent=MediaPlayer/1.0
-http://56af988a-stream.nmbs.top/c/41/78763.m3u8
+#EXTINF:-1 tvg-ID="UK-103 ITV" tvg-name="[UK]_ITV_1HD" tvg-logo="http://fullboxiptv.com/img/itv1hd.png" group-title="UK TV",[UK]_ITV_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/161
+#EXTINF:-1 tvg-ID="UK-103 ITV" tvg-name="[UK]_ITV_1SD" tvg-logo="http://fullboxiptv.com/img/itv1sd.png" group-title="UK TV",[UK]_ITV_1SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2509
+#EXTINF:-1 tvg-ID="556" tvg-name="[UK]_ITV_2HD" tvg-logo="http://fullboxiptv.com/img/itv2hd.png" group-title="UK TV",[UK]_ITV_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/37
+#EXTINF:-1 tvg-ID="UK-118 ITV2" tvg-name="[UK]_ITV_2SD" tvg-logo="http://fullboxiptv.com/img/itv2sd.png" group-title="UK TV",[UK]_ITV_2SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2510
+#EXTINF:-1 tvg-ID="ITV3 UK" tvg-name="[UK]_ITV_3HD" tvg-logo="http://4d-area.biz/imgb/itv3.png" group-title="UK TV",[UK]_ITV_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/240
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ITV_4HD" tvg-logo="http://4d-area.biz/imgb/itv4.jpg" group-title="UK TV",[UK]_ITV_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/241
+#EXTINF:-1 tvg-ID="UK-120 ITV4" tvg-name="[UK]_ITV_4SD" tvg-logo="http://fullboxiptv.com/img/itv4sd.png" group-title="UK TV",[UK]_ITV_4SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2511
+#EXTINF:-1 tvg-ID="UK-149 ITVBe" tvg-name="[UK]_ITV_BE" tvg-logo="http://fullboxiptv.com/img/itvbe.png" group-title="UK TV",[UK]_ITV_BE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2512
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ITV_Encore" tvg-logo="http://fullboxiptv.com/img/itv1hd.png" group-title="UK TV",[UK]_ITV_Encore
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2463
+#EXTINF:-1 tvg-ID="UK-101 BBC One Lon" tvg-name="[UK]_BBC_One" tvg-logo="http://fullboxiptv.com/img/bbcone.jpg" group-title="UK TV",[UK]_BBC_One
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/165
+#EXTINF:-1 tvg-ID="UK-119 ITV3" tvg-name="[UK]_ITV_3SD" tvg-logo="http://fullboxiptv.com/img/itv3sd.png" group-title="UK TV",[UK]_ITV_3SD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2507
+#EXTINF:-1 tvg-ID="BBC Red Button 3" tvg-name="[UK]_BBC_THREE" tvg-logo="http://fullboxiptv.com/img/bbc3.png" group-title="UK TV",[UK]_BBC_THREE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2471
+#EXTINF:-1 tvg-ID="UK-102 BBC Two Eng" tvg-name="[UK]_BBC_Two" tvg-logo="http://fullboxiptv.com/img/BBC2.png" group-title="UK TV",[UK]_BBC_Two
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/164
+#EXTINF:-1 tvg-ID="BBC News Channel" tvg-name="[UK]_BBC_World_News" tvg-logo="http://fullboxiptv.com/img/bbcnewsuk.png" group-title="UK TV",[UK]_BBC_World_News
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2491
+#EXTINF:-1 tvg-ID="UK-167 Home & Health" tvg-name="[UK]_DISCOVERY_HOME.&.HEATH" tvg-logo="http://fullboxiptv.com/img/DISCOVERYHOME&HEATH.png" group-title="UK TV",[UK]_DISCOVERY_HOME.&.HEATH
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/6183
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_CAPITAL_TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png" group-title="UK TV",[UK]_CAPITAL_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2552
+#EXTINF:-1 tvg-ID="UK-601 Cartoon Netwrk" tvg-name="[UK]_Cartoon_Network" tvg-logo="http://fullboxiptv.com/img/cartoonnetwork.png" group-title="UK TV",[UK]_Cartoon_Network
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/74
+#EXTINF:-1 tvg-ID="UK-614 CBeebies" tvg-name="[UK]_CBBC_HD" tvg-logo="http://fullboxiptv.com/img/cbbc.png" group-title="UK TV",[UK]_CBBC_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2508
+#EXTINF:-1 tvg-ID="113" tvg-name="[UK]_CBeebies_HD" tvg-logo="http://fullboxiptv.com/img/cbeebies.jpg" group-title="UK TV",[UK]_CBeebies_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2470
+#EXTINF:-1 tvg-ID="CBSAction.uk" tvg-name="[UK]_CBS_Action" tvg-logo="http://fullboxiptv.com/img/CBS-Action-Logo.png" group-title="UK TV",[UK]_CBS_Action
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/163
+#EXTINF:-1 tvg-ID="UK-147 CBS Drama" tvg-name="[UK]_CBS_DRAMA" tvg-logo="http://fullboxiptv.com/img/cbsdrama.png" group-title="UK TV",[UK]_CBS_DRAMA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2572
+#EXTINF:-1 tvg-ID="UK-104 Channel 4" tvg-name="[UK]_CHANNEL_4HD" tvg-logo="http://fullboxiptv.com/img/channel4.png" group-title="UK TV",[UK]_CHANNEL_4HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2474
+#EXTINF:-1 tvg-ID="UK-105 Channel 5" tvg-name="[UK]_CHANNEL_5HD" tvg-logo="http://fullboxiptv.com/img/channel5.jpg" group-title="UK TV",[UK]_CHANNEL_5HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2475
+#EXTINF:-1 tvg-ID="UK-350 MTV MUSIC" tvg-name="[UK]_MTV_MUSIC+1" tvg-logo="http://fullboxiptv.com/img/mtvmusic.png" group-title="UK TV",[UK]_MTV_MUSIC+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2579
+#EXTINF:-1 tvg-ID="Chelsea TV" tvg-name="[UK]_CHELSEA_TV_HD" tvg-logo="http://fullboxiptv.com/img/chelseatv.png" group-title="UK TV",[UK]_CHELSEA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2478
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_COLORS" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/thumb/b/ba/Colors_TV.svg.png/1280px-Colors_TV.svg.png" group-title="UK TV",[UK]_COLORS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2617
+#EXTINF:-1 tvg-ID="UK-128 ComedyXtra" tvg-name="[UK]_Comedy_Xtra" tvg-logo="http://fullboxiptv.com/img/comdyxtra.png" group-title="UK TV",[UK]_Comedy_Xtra
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/651
+#EXTINF:-1 tvg-ID="UK-553 Crime+Inv" tvg-name="[UK]_CRIME_&_INVESTIGATION" tvg-logo="http://fullboxiptv.com/img/crimeinvestigation.jpg" group-title="UK TV",[UK]_CRIME_&_INVESTIGATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2583
+#EXTINF:-1 tvg-ID="UK-214 Dave ja vu" tvg-name="[UK]_DAVE_HD" tvg-logo="http://fullboxiptv.com/img/davetv.png" group-title="UK TV",[UK]_DAVE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2527
+#EXTINF:-1 tvg-ID="UK-520 Discovery" tvg-name="[UK]_DISCOVERY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Discovery-Channel-logo.png" group-title="UK TV",[UK]_DISCOVERY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2581
+#EXTINF:-1 tvg-ID="UK-553 Crime+Inv" tvg-name="[UK]_DISCOVERY_INVESTIGATION" tvg-logo="http://fullboxiptv.com/img/id.jpg" group-title="UK TV",[UK]_DISCOVERY_INVESTIGATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2584
+#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="[UK]_DISCOVERY_SCIENCE" tvg-logo="http://fullboxiptv.com/img/discovery_scionce.png" group-title="UK TV",[UK]_DISCOVERY_SCIENCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/168
+#EXTINF:-1 tvg-ID="UK-161 Discovery Shed" tvg-name="[UK]_DISCOVERY_SHED" tvg-logo="http://fullboxiptv.com/img/Discovery_Shed.png" group-title="UK TV",[UK]_DISCOVERY_SHED
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2591
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="[UK]_DISCOVERY_TURBO" tvg-logo="http://fullboxiptv.com/img/discovery_turbo.jpg" group-title="UK TV",[UK]_DISCOVERY_TURBO
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2590
+#EXTINF:-1 tvg-ID="Disney Channel HD" tvg-name="[UK]_DISNEY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Disney_Channel.png" group-title="UK TV",[UK]_DISNEY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2606
+#EXTINF:-1 tvg-ID="UK-611 Disney Junior" tvg-name="[UK]_DISNEY_JUNIOR" tvg-logo="http://fullboxiptv.com/img/disney_junior.png" group-title="UK TV",[UK]_DISNEY_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2605
+#EXTINF:-1 tvg-ID="DisneyXD.uk" tvg-name="[UK]_DISNEY_XD" tvg-logo="http://fullboxiptv.com/img/disney_xd.png" group-title="UK TV",[UK]_DISNEY_XD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2608
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="[UK]_DMAX_UK" tvg-logo="http://fullboxiptv.com/img/dmax.png" group-title="UK TV",[UK]_DMAX_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2593
+#EXTINF:-1 tvg-ID="Drama" tvg-name="[UK]_DRAMA_CHANNEL" tvg-logo="http://fullboxiptv.com/img/dramachannel.jpg" group-title="UK TV",[UK]_DRAMA_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2569
+#EXTINF:-1 tvg-ID="Sony Entertainment TV Asia" tvg-name="[UK]_E!" tvg-logo="http://fullboxiptv.com/img/entertaiment.jpg" group-title="UK TV",[UK]_E!
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2467
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_VH1_Classic" tvg-logo="http://fullboxiptv.com/img/vh1classic.png" group-title="UK TV",[UK]_VH1_Classic
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2522
+#EXTINF:-1 tvg-ID="UK-136 E4" tvg-name="[UK]_E4" tvg-logo="http://fullboxiptv.com/img/e4tv.jpg" group-title="UK TV",[UK]_E4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2520
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_One_BY" tvg-logo="http://fullboxiptv.com/img/oneby.jpg" group-title="UK TV",[UK]_One_BY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2521
+#EXTINF:-1 tvg-ID="eir Sport 1" tvg-name="[UK]_EIR_SPORT_1" tvg-logo="http://fullboxiptv.com/img/eirsport1.jpg" group-title="UK TV",[UK]_EIR_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2476
+#EXTINF:-1 tvg-ID="eir Sport 2" tvg-name="[UK]_EIR_SPORT_2" tvg-logo="http://fullboxiptv.com/img/eirsport2.jpg" group-title="UK TV",[UK]_EIR_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2477
+#EXTINF:-1 tvg-ID="287" tvg-name="[UK]_EURONEWS" tvg-logo="http://fullboxiptv.com/img/eronews.jpg" group-title="UK TV",[UK]_EURONEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2612
+#EXTINF:-1 tvg-ID="332" tvg-name="[UK]_EuroSport 1-HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="UK TV",[UK]_EuroSport 1-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2489
+#EXTINF:-1 tvg-ID="333" tvg-name="[UK]_EuroSport-2-HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="UK TV",[UK]_EuroSport-2-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2490
+#EXTINF:-1 tvg-ID="UK-315 Film4" tvg-name="[UK]_FILM_4" tvg-logo="http://fullboxiptv.com/img/film4.png" group-title="UK TV",[UK]_FILM_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2568
+#EXTINF:-1 tvg-ID="UK-248 Food Network" tvg-name="[UK]_FOOD_NETWORK" tvg-logo="http://fullboxiptv.com/img/foodnetw.jpg" group-title="UK TV",[UK]_FOOD_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2561
+#EXTINF:-1 tvg-ID="UK-124 FOX" tvg-name="[UK]_FOX_HD" tvg-logo="http://fullboxiptv.com/img/foxhd.png" group-title="UK TV",[UK]_FOX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/162
+#EXTINF:-1 tvg-ID="FRANCE 24 English" tvg-name="[UK]_FRANCE_24" tvg-logo="http://fullboxiptv.com/img/franc24en.jpg" group-title="UK TV",[UK]_FRANCE_24
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/806
+#EXTINF:-1 tvg-ID="UK-110 GOLD" tvg-name="[UK]_GOLD_TV" tvg-logo="http://fullboxiptv.com/img/GOLDTV.jpg" group-title="UK TV",[UK]_GOLD_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2523
+#EXTINF:-1 tvg-ID="4Music" tvg-name="[UK]_4MUSIC" tvg-logo="http://fullboxiptv.com/img/4MUSIC.png" group-title="UK TV",[UK]_4MUSIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2524
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_GOOD_FOOD" tvg-logo="http://www.entertainment-iuk.com/wp-content/goodfoodhd.jpg" group-title="UK TV",[UK]_GOOD_FOOD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2549
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_H2" tvg-logo="http://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/4/d0/4d00625e-a3f5-11e3-bd57-0019bb2963f4/54b5d64904153.image.jpg" group-title="UK TV",[UK]_H2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2589
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_OWN" tvg-logo="http://fullboxiptv.com/img/owntv.jpg" group-title="USA",[USA]_OWN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2488
+#EXTINF:-1 tvg-ID="UK-529 History" tvg-name="[UK]_HISTORY" tvg-logo="http://fullboxiptv.com/img/history.jpg" group-title="UK TV",[UK]_HISTORY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2587
+#EXTINF:-1 tvg-ID="UK-196 Home" tvg-name="[UK]_HOME" tvg-logo="http://fullboxiptv.com/img/home.jpg" group-title="UK TV",[UK]_HOME
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2559
+#EXTINF:-1 tvg-ID="UK-167 Home & Health" tvg-name="[UK]_Home_&_Health" tvg-logo="http://fullboxiptv.com/img/discovery_hh.png" group-title="UK TV",[UK]_Home_&_Health
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2468
+#EXTINF:-1 tvg-ID="UK-319 horror channel" tvg-name="[UK]_HORROR_CHANNEL" tvg-logo="http://fullboxiptv.com/img/horrortv.png" group-title="UK TV",[UK]_HORROR_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2466
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_HORSE_&_COUNTRY" tvg-logo="http://www.britishdressage.co.uk/news/image/2170/H_C_web_sq.jpg" group-title="UK TV",[UK]_HORSE_&_COUNTRY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2562
+#EXTINF:-1 tvg-ID="" tvg-name="[AR]_AL_AFASY" tvg-logo="http://fullboxiptv.com/img/alafasitv.png" group-title="iSLAM TV",[AR]_AL_AFASY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2465
+#EXTINF:-1 tvg-ID="334" tvg-name="[UK]_I.D" tvg-logo="http://fullboxiptv.com/img/id.jpg" group-title="UK TV",[UK]_I.D
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2464
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_IRISH_TV" tvg-logo="http://blog.irishtv.ie/wp-content/uploads/2015/03/Irish-TV-Sky-2.jpg" group-title="UK TV",[UK]_IRISH_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2548
+#EXTINF:-1 tvg-ID="LFC TV" tvg-name="[UK]_LFC_TV" tvg-logo="http://fullboxiptv.com/img/lfctv.png" group-title="UK TV",[UK]_LFC_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2462
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_LIFETIME" tvg-logo="http://www.mylifetimetv.ca/images/mylifetimetvlogoog.jpg" group-title="UK TV",[UK]_LIFETIME
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2553
+#EXTINF:-1 tvg-ID="UK-156 Lifetime" tvg-name="[UK]_LIFETIME_HD" tvg-logo="http://fullboxiptv.com/img/LIFTIME.png" group-title="UK TV",[UK]_LIFETIME_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2493
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_LONDON_LIVE" tvg-logo="https://static.standard.co.uk/s3fs-public/styles/storylist/public/thumbnails/image/2013/12/17/16/logo-orange.png" group-title="UK TV",[UK]_LONDON_LIVE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2530
+#EXTINF:-1 tvg-ID="UK-138 More4" tvg-name="[UK]_More4" tvg-logo="http://fullboxiptv.com/img/more4.png" group-title="UK TV",[UK]_More4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/650
+#EXTINF:-1 tvg-ID="UK-325 movies4men" tvg-name="[UK]_MOVIES_4_MEN" tvg-logo="http://fullboxiptv.com/img/movi4man.png" group-title="UK TV",[UK]_MOVIES_4_MEN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2573
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_Djing_Classic" tvg-logo="http://fullboxiptv.com/img/djingtv.png" group-title="UK TV",[UK]_Djing_Classic
+https://www.djing.com/tv/i-28241-04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_Djing_Ibiza" tvg-logo="http://fullboxiptv.com/img/djingibiza.jpg" group-title="UK TV",[UK]_Djing_Ibiza
+https://www.djing.com/tv/d-28241-04.m3u8
+#EXTINF:-1 tvg-ID="UK-126 MTV" tvg-name="[UK]_MTV" tvg-logo="http://fullboxiptv.com/img/mtvuk.png" group-title="UK TV",[UK]_MTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2576
+#EXTINF:-1 tvg-ID="UK-126 MTV" tvg-name="[UK]_MTV+1" tvg-logo="http://fullboxiptv.com/img/mtv.png" group-title="UK TV",[UK]_MTV+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2577
+#EXTINF:-1 tvg-ID="UK-356 MTV CLASSIC" tvg-name="[UK]_MTV_Classic" tvg-logo="http://fullboxiptv.com/img/mtvclassic.png" group-title="UK TV",[UK]_MTV_Classic
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/494
+#EXTINF:-1 tvg-ID="MTVLive.uk" tvg-name="[UK]_MTV_DANCE" tvg-logo="http://fullboxiptv.com/img/mtvdance.png" group-title="UK TV",[UK]_MTV_DANCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/459
+#EXTINF:-1 tvg-ID="UK-351 MTV BASE" tvg-name="[UK]_MTV_BASE" tvg-logo="http://fullboxiptv.com/img/MTV_BASE.png" group-title="UK TV",[UK]_MTV_BASE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/3537
+#EXTINF:-1 tvg-ID="UK-352 MTV HITS" tvg-name="[UK]_MTV_HITS" tvg-logo="http://fullboxiptv.com/img/mtvhit.png" group-title="UK TV",[UK]_MTV_HITS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/498
+#EXTINF:-1 tvg-ID="UK-350 MTV MUSIC" tvg-name="[UK]_MTV_Music" tvg-logo="http://fullboxiptv.com/img/mtvmusic.png" group-title="UK TV",[UK]_MTV_Music
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/497
+#EXTINF:-1 tvg-ID="The Box" tvg-name="[UK]_THE_BOX" tvg-logo="http://fullboxiptv.com/img/thebox.png" group-title="UK TV",[UK]_THE_BOX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4690
+#EXTINF:-1 tvg-ID="MUTV" tvg-name="[UK]_MUTV" tvg-logo="http://fullboxiptv.com/img/MUTV.png" group-title="UK TV",[UK]_MUTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2461
+#EXTINF:-1 tvg-ID="National Geographic Channel HD" tvg-name="[UK]_NATIONAL_GEOGRAPHIC" tvg-logo="http://fullboxiptv.com/img/National-geographic.jpg" group-title="UK TV",[UK]_NATIONAL_GEOGRAPHIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2586
+#EXTINF:-1 tvg-ID="NatGeoWild.uk" tvg-name="[UK]_NATIONAL_GEOGRAPHIC_WILD" tvg-logo="http://fullboxiptv.com/img/natgeowild.png" group-title="UK TV",[UK]_NATIONAL_GEOGRAPHIC_WILD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/387
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_NHK_WORLD_HD" tvg-logo="http://fullboxiptv.com/img/nhkworld.png" group-title="UK TV",[UK]_NHK_WORLD_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2613
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="[UK]_NICKELODEON" tvg-logo="http://fullboxiptv.com/img/nicklooden.png" group-title="UK TV",[UK]_NICKELODEON
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2600
+#EXTINF:-1 tvg-ID="NickJrToo.uk" tvg-name="[UK]_NICKJR.TOO" tvg-logo="http://fullboxiptv.com/img/nickjr2.png" group-title="UK TV",[UK]_NICKJR.TOO
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2604
+#EXTINF:-1 tvg-ID="UK-606 Nicktoons" tvg-name="[UK]_Nicktoons" tvg-logo="http://fullboxiptv.com/img/nicktoon.png" group-title="UK TV",[UK]_Nicktoons
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2460
+#EXTINF:-1 tvg-ID="NickJr+1.uk" tvg-name="[UK]_NICK_JUNIOR" tvg-logo="http://fullboxiptv.com/img/nickjunioruk.png" group-title="UK TV",[UK]_NICK_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2602
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_PICK_TV" tvg-logo="http://www.joinfreesat.co.uk/wp-content/uploads/logo-pick-tv.gif" group-title="UK TV",[UK]_PICK_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2556
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_POP" tvg-logo="http://4d-area.biz/imgb/POP.png" group-title="UK TV",[UK]_POP
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2557
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_POP_MAX" tvg-logo="http://fullboxiptv.com/img/popmax.png" group-title="UK TV",[UK]_POP_MAX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2459
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_Premier_Sports" tvg-logo="http://4d-area.biz/imgb/Premier_Sports_logo.png" group-title="UK TV",[UK]_Premier_Sports
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2458
+#EXTINF:-1 tvg-ID="327" tvg-name="[UK]_QUEST" tvg-logo="http://fullboxiptv.com/img/quest.png" group-title="UK TV",[UK]_QUEST
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2554
+#EXTINF:-1 tvg-ID="UK-432 Racing UK" tvg-name="[UK]_Racing-UK" tvg-logo="http://fullboxiptv.com/img/racinguk.png" group-title="UK TV",[UK]_Racing-UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2492
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_REALLY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" group-title="UK TV",[UK]_REALLY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2558
+#EXTINF:-1 tvg-ID="UK-172 Real Lives" tvg-name="[UK]_REAL_LIVES" tvg-logo="http://fullboxiptv.com/img/reallivie.png" group-title="UK TV",[UK]_REAL_LIVES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2550
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_HORSE&COUNTRY" tvg-logo="http://fullboxiptv.com/img/HORSE1COUNTRY.png" group-title="UK TV",[UK]_HORSE&COUNTRY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2623
+#EXTINF:-1 tvg-ID="UK-344 ROK" tvg-name="[UK]_ROK_TV" tvg-logo="http://fullboxiptv.com/img/roktv.png" group-title="UK TV",[UK]_ROK_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2624
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_RTE_1HD" tvg-logo="http://www.autocue.ie/images/rte.png" group-title="UK TV",[UK]_RTE_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2534
+#EXTINF:-1 tvg-ID="RTÉ Two" tvg-name="[UK]_RTE_2HD" tvg-logo="http://fullboxiptv.com/img/RTE2HD_new.png" group-title="UK TV",[UK]_RTE_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2535
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_RTE_JUNIOR" tvg-logo="http://fullboxiptv.com/img/rtejunior.png" group-title="UK TV",[UK]_RTE_JUNIOR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2610
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_RT_DOCUMENTARY" tvg-logo="http://fullboxiptv.com/img/rtdoc.jpg" group-title="UK TV",[UK]_RT_DOCUMENTARY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2597
+#EXTINF:-1 tvg-ID="UK-182 True Ent" tvg-name="[UK]_TRUE_ENTERTAINMENT" tvg-logo="http://fullboxiptv.com/img/trueentertiument.jpg" group-title="UK TV",[UK]_TRUE_ENTERTAINMENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2563
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SKY_1" tvg-logo="http://4d-area.biz/imgb/Sky-1.png" group-title="UK TV",[UK]_SKY_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/689
+#EXTINF:-1 tvg-ID="UK-163 Sky Two" tvg-name="[UK]_SKY_2" tvg-logo="http://fullboxiptv.com/img/sky2uk.png" group-title="UK TV",[UK]_SKY_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/690
+#EXTINF:-1 tvg-ID="UK-307 Sky Action" tvg-name="[UK]_SKY_CINEMA_ACTION_&_ADVENTURE_HD" tvg-logo="http://fullboxiptv.com/img/skycinemaactionaventure.png" group-title="UK TV",[UK]_SKY_CINEMA_ACTION_&_ADVENTURE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/238
+#EXTINF:-1 tvg-ID="UK-308 Sky Comedy" tvg-name="[UK]_SKY_CINEMA_COMEDY_HD" tvg-logo="http://fullboxiptv.com/img/SkyCinemaComedyuk.png" group-title="UK TV",[UK]_SKY_CINEMA_COMEDY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/167
+#EXTINF:-1 tvg-ID="Sky Cinema Crime & Thriller" tvg-name="[UK]_SKY_CINEMA_CRIME_&_THRILLER_HD" tvg-logo="http://fullboxiptv.com/img/SKYCCRIMTRIL.png" group-title="UK TV",[UK]_SKY_CINEMA_CRIME_&_THRILLER_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/242
+#EXTINF:-1 tvg-ID="Sky Cinema Disney HD" tvg-name="[UK]_SKY_MOVIES_DISNEY_HD" tvg-logo="http://fullboxiptv.com/img/Sky-Cinema-DISNEY.png" group-title="UK TV",[UK]_SKY_MOVIES_DISNEY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/158
+#EXTINF:-1 tvg-ID="UK-308 Sky Comedy" tvg-name="[UK]_SKY_CINEMA_FAMILY_HD" tvg-logo="http://fullboxiptv.com/img/SKY8CINEMA8FAMILYuk.png" group-title="UK TV",[UK]_SKY_CINEMA_FAMILY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/166
+#EXTINF:-1 tvg-ID="UK-301 Sky Premiere" tvg-name="[UK]_SKY_CINEMA_PREMIERE_HD" tvg-logo="http://fullboxiptv.com/img/skycinemapremierehd.png" group-title="UK TV",[UK]_SKY_CINEMA_PREMIERE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/237
+#EXTINF:-1 tvg-ID="SkyPremiere.uk" tvg-name="[UK]_SKY_CINEMA_PREMIERE_+1" tvg-logo="http://fullboxiptv.com/img/skycprem+1.png" group-title="UK TV",[UK]_SKY_CINEMA_PREMIERE_+1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/556
+#EXTINF:-1 tvg-ID="Sky Cinema Select HD" tvg-name="[UK]_SKY_CINEMA_SELECT_HD" tvg-logo="http://fullboxiptv.com/img/sky-cinema-select.png" group-title="UK TV",[UK]_SKY_CINEMA_SELECT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/235
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SKY_CINEMA_SHOWCASE_HD" tvg-logo="http://fullboxiptv.com/img/SKYCSHOWCASE.png" group-title="UK TV",[UK]_SKY_CINEMA_SHOWCASE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/239
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_1" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2603
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_2" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2487
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_3" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2536
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_4" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2564
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_5" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2518
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_BOX_OFFICE_6" tvg-logo="http://fullboxiptv.com/img/ukboxoffic.png" group-title="UK TV",[UK]_BOX_OFFICE_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2506
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SKY_NEWS" tvg-logo="http://fullboxiptv.com/img/sky_news.png" group-title="UK TV",[UK]_SKY_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1
+#EXTINF:-1 tvg-ID="Sony Channel" tvg-name="[UK]_SONY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/soneychanneluk.jpg" group-title="UK TV",[UK]_SONY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2615
+#EXTINF:-1 tvg-ID="UK-323 Sony Movies" tvg-name="[UK]_SONY_MOVIES" tvg-logo="http://fullboxiptv.com/img/Sony-Movie-Channel.png" group-title="UK TV",[UK]_SONY_MOVIES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2614
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SONY_SAB" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Sony-SAB.png" group-title="UK TV",[UK]_SONY_SAB
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2620
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SONY_SET_MAX_TV_UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" group-title="UK TV",[UK]_SONY_SET_MAX_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2621
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_SONY_TV_UK" tvg-logo="https://pbs.twimg.com/profile_images/816241973065613313/d7DxZZUx.jpg" group-title="UK TV",[UK]_SONY_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2619
+#EXTINF:-1 tvg-ID="StarGold.uk" tvg-name="[UK]_STAR_GOLD" tvg-logo="http://fullboxiptv.com/img/stargolduk.jpg" group-title="UK TV",[UK]_STAR_GOLD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2481
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_STAR_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Star_Plus_Logo.jpg/220px-Star_Plus_Logo.jpg" group-title="UK TV",[UK]_STAR_PLUS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2482
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_STAR_UTSAV" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/utsav.png" group-title="UK TV",[UK]_STAR_UTSAV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2483
+#EXTINF:-1 tvg-ID="Syfy.uk" tvg-name="[UK]_SYFY_HD" tvg-logo="http://fullboxiptv.com/img/Syfy_HD.png" group-title="UK TV",[UK]_SYFY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/663
+#EXTINF:-1 tvg-ID="UK-317 TCM" tvg-name="[UK]_TCM" tvg-logo="http://fullboxiptv.com/img/tcmtv.png" group-title="UK TV",[UK]_TCM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2565
+#EXTINF:-1 tvg-ID="" tvg-name="[AR]_AL-RAYYAN_TV" tvg-logo="http://fullboxiptv.com/img/ALRAYYANTV.png" group-title="Arabic TV",[AR]_AL-RAYYAN_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2539
+#EXTINF:-1 tvg-ID="UK-125 TLC" tvg-name="[UK]_TLC" tvg-logo="http://fullboxiptv.com/img/tlctv.png" group-title="UK TV",[UK]_TLC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2531
+#EXTINF:-1 tvg-ID="UK-249 Travel Channel" tvg-name="[UK]_TRAVEL_CHANNEL" tvg-logo="http://fullboxiptv.com/img/travelchannel.png" group-title="UK TV",[UK]_TRAVEL_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2595
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_TRUE_DRAMA" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/07/Medium_true-drama.jpg" group-title="UK TV",[UK]_TRUE_DRAMA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2570
+#EXTINF:-1 tvg-ID="UK-321 True Movies" tvg-name="[UK]_True_Movies_1" tvg-logo="http://fullboxiptv.com/img/True_Movies_1.jpg" group-title="UK TV",[UK]_True_Movies_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/159
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_True_MOVIES_2" tvg-logo="http://fullboxiptv.com/img/True_Movies_2_logo.png" group-title="UK TV",[UK]_True_MOVIES_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/243
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_TV3" tvg-logo="https://www.screenproducersireland.com/sites/default/files/styles/large/public/field/image/tv3-white-websize_0.gif" group-title="UK TV",[UK]_TV3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2543
+#EXTINF:-1 tvg-ID="597" tvg-name="[UK]_Universal" tvg-logo="http://fullboxiptv.com/img/Universal-Channel.jpg" group-title="UK TV",[UK]_Universal
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2494
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_UTV_IE" tvg-logo="https://pbs.twimg.com/profile_images/787845489915985920/Zh_2j1PH.jpg" group-title="UK TV",[UK]_UTV_IE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2540
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_VH1" tvg-logo="http://fullboxiptv.com/img/vh1.jpg" group-title="UK TV",[UK]_VH1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/458
+#EXTINF:-1 tvg-ID="UK-353 MTV OMG" tvg-name="[UK]_MTV_CLUB" tvg-logo="http://fullboxiptv.com/img/MTVCLUB.png" group-title="UK TV",[UK]_MTV_CLUB
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2580
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_VIVA_UK" tvg-logo="http://www.berrycinema.co.uk/communities/0/004/012/437/190//images/4605229053.jpg" group-title="UK TV",[UK]_VIVA_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2578
+#EXTINF:-1 tvg-ID="UK-109 W" tvg-name="[UK]_W" tvg-logo="http://fullboxiptv.com/img/WUK.jpg" group-title="UK TV",[UK]_W
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2545
+#EXTINF:-1 tvg-ID="Yesterday +1" tvg-name="[UK]_YESTERDAY" tvg-logo="http://fullboxiptv.com/img/yesterday.png" group-title="UK TV",[UK]_YESTERDAY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2469
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ZEE_CINEMA_UK" tvg-logo="http://www.playfield.ae/wp-content/uploads/2016/07/Z-Cinema-Logo-India-300x214.jpg" group-title="UK TV",[UK]_ZEE_CINEMA_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2480
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ZEE_TV_UK" tvg-logo="http://www.frocus.net/images/logotv/original/zee-tv.jpg" group-title="UK TV",[UK]_ZEE_TV_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2486
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ZING UK" tvg-logo="http://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/zing_new001.jpg" group-title="UK TV",[UK]_ZING UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2479
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="[UK]_Comedy_Central" tvg-logo="http://fullboxiptv.com/img/comedycentral.png" group-title="UK TV",[UK]_Comedy_Central
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/652
+#EXTINF:-1 tvg-ID="Discovery History" tvg-name="[UK]_DISCOVERY_HISTORY" tvg-logo="http://fullboxiptv.com/img/discover_history.png" group-title="UK TV",[UK]_DISCOVERY_HISTORY
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/709
+#EXTINF:-1 tvg-ID="MTV Rocks" tvg-name="[UK]_MTV_Rocks" tvg-logo="http://fullboxiptv.com/img/mtv_rocks.png" group-title="UK TV",[UK]_MTV_Rocks
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/495
+#EXTINF:-1 tvg-ID="UK-122 Sky Arts" tvg-name="[UK]_SKY_ARTE_HD" tvg-logo="http://fullboxiptv.com/img/Sky-Arte-HD.jpg" group-title="UK TV",[UK]_SKY_ARTE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/688
+#EXTINF:-1 tvg-ID="UK-304 Sky Greats" tvg-name="[UK]_SKY_CINEMA_GREATS_HD" tvg-logo="http://fullboxiptv.com/img/skycinemagreats.png" group-title="UK TV",[UK]_SKY_CINEMA_GREATS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/427
+#EXTINF:-1 tvg-ID="Sky Cinema Sky-Fi HD" tvg-name="[UK]_SKY_CINEMA_SCI-FI_HD" tvg-logo="http://fullboxiptv.com/img/sky-cinema-sic-fi-horror.png" group-title="UK TV",[UK]_SKY_CINEMA_SCI-FI_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/236
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_CBS_JUSTICE" tvg-logo="http://fullboxiptv.com/img/CBSJUSTIC.jpg" group-title="UK TV",[UK]_CBS_JUSTICE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2538
+#EXTINF:-1 tvg-ID="UK-176 5STAR" tvg-name="[UK]_5_STAR" tvg-logo="http://fullboxiptv.com/img/5staruk.png" group-title="UK TV",[UK]_5_STAR
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2525
+#EXTINF:-1 tvg-ID="UK-175 5SELECT" tvg-name="[UK]_5_SELECT" tvg-logo="http://fullboxiptv.com/img/5SELECT.png" group-title="UK TV",[UK]_5_SELECT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2517
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ALIBI_HD" tvg-logo="http://fullboxiptv.com/img/ALIBI.png" group-title="UK TV",[UK]_ALIBI_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2528
+#EXTINF:-1 tvg-ID="Al Jazeera English" tvg-name="[UK]_AL_JAZEERA_ENGLISH" tvg-logo="http://fullboxiptv.com/img/jazeeraenglsh.png" group-title="UK TV",[UK]_AL_JAZEERA_ENGLISH
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2472
+#EXTINF:-1 tvg-ID="UK-192 AMC from BT" tvg-name="[UK]_AMC" tvg-logo="http://fullboxiptv.com/img/amc.png" group-title="UK TV",[UK]_AMC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2567
+#EXTINF:-1 tvg-ID="331" tvg-name="[UK]_ANIMAL_PLANET_UK" tvg-logo="http://fullboxiptv.com/img/animalplanet.png" group-title="UK TV",[UK]_ANIMAL_PLANET_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/687
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_ARY_DIGITAL_UK" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/3/36/ARY_Digital_UK.png" group-title="UK TV",[UK]_ARY_DIGITAL_UK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2622
+#EXTINF:-1 tvg-ID="At The Races" tvg-name="[UK]_AT_THE_RACES" tvg-logo="http://fullboxiptv.com/img/attherace.jpg" group-title="UK TV",[UK]_AT_THE_RACES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2505
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_B4U_MOVIES" tvg-logo="https://yt3.ggpht.com/-rY4vYV-PH60/AAAAAAAAAAI/AAAAAAAAAAA/d4X6JZ9mGe4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="UK TV",[UK]_B4U_MOVIES
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2485
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_B4U_MUSIC" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/b4u-channel-images-logo-large.png" group-title="UK TV",[UK]_B4U_MUSIC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2484
+#EXTINF:-1 tvg-ID="" tvg-name="[UK]_B4U_PLUS" tvg-logo="http://www.b4uplus.com/images/no-image.png" group-title="UK TV",[UK]_B4U_PLUS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2618
+#EXTINF:-1 tvg-ID="UK-623 BabyTV" tvg-name="[UK]_BABY_TV" tvg-logo="http://fullboxiptv.com/img/babytv.jpg" group-title="UK TV",[UK]_BABY_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2609
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-name="[UK]_BLOOMBERG_US_HD" tvg-logo="http://fullboxiptv.com/img/bloomberg.png" group-title="UK TV",[UK]_BLOOMBERG_US_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2611
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-name="[UK]_BOOMERANG" tvg-logo="http://fullboxiptv.com/img/boomerang.png" group-title="UK TV",[UK]_BOOMERANG
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2598
+****************************************************************************************************************************************************
+****USA*****************************************************USA*************************************************USA*********************************
+*****************************USA***********************************************USA************************************************USA***************
+#EXTM3U
+#EXTINF:-1 tvg-ID="Starz (US)" tvg-name="[USA]_STARZ_EDGE" tvg-logo="http://4d-area.biz/imgb/sedge.png" group-title="USA",[USA]_STARZ_EDGE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/801
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_TBS_HD" tvg-logo="http://fullboxiptv.com/img/tbshd.png" group-title="USA",[USA]_TBS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/805
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_Starz_Cinema_HD" tvg-logo="http://fullboxiptv.com/img/starz_cinema.png" group-title="USA",[USA]_Starz_Cinema_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/377
+#EXTINF:-1 tvg-ID="CNN US" tvg-name="[USA]_CNN" tvg-logo="http://fullboxiptv.com/img/cnn.png" group-title="USA",[USA]_CNN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/444
+#EXTINF:-1 tvg-ID="Fox Sports 1 (FS1) US" tvg-name="[USA]_FOX_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/fs1.png" group-title="USA",[USA]_FOX_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/384
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_FOX_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/fs2.png" group-title="USA",[USA]_FOX_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/383
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_VICELAND" tvg-logo="http://fullboxiptv.com/img/VICELAND.png" group-title="USA",[USA]_VICELAND
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5156
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_A&E_HD" tvg-logo="http://fullboxiptv.com/img/a&e.png" group-title="USA",[USA]_A&E_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/802
+#EXTINF:-1 tvg-ID="TNT On Demand (TNT) US" tvg-name="[USA]_TNT_HD_US" tvg-logo="http://fullboxiptv.com/img/tnthd.png" group-title="USA",[USA]_TNT_HD_US
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/386
+#EXTINF:-1 tvg-ID="HBO HD (East)" tvg-name="[USA]_HBO_HD" tvg-logo="http://fullboxiptv.com/img/hbohd.png" group-title="USA",[USA]_HBO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/374
+#EXTINF:-1 tvg-ID="HBO Signature (US)" tvg-name="[USA]_HBO-SIGNATURE" tvg-logo="http://fullboxiptv.com/img/hbosignature.png" group-title="USA",[USA]_HBO-SIGNATURE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/800
+#EXTINF:-1 tvg-ID="Syfy US" tvg-name="[USA]_SYFY_HD" tvg-logo="http://fullboxiptv.com/img/Syfy_HD.png" group-title="USA",[USA]_SYFY_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/385
+#EXTINF:-1 tvg-ID="National Geographic Channel (NGC) US" tvg-name="[USA]_NAT-GEO_HD" tvg-logo="http://fullboxiptv.com/img/National-geographic.jpg" group-title="USA",[USA]_NAT-GEO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2607
+#EXTINF:-1 tvg-ID="HGTV On Demand (HGOD) US" tvg-name="[CA]_Omni_2HD" tvg-logo="http://fullboxiptv.com/img/OMNI2.png" group-title="CANADA TV",[CA]_Omni_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2537
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_BOOMERANG_HD" tvg-logo="http://fullboxiptv.com/img/boomerang.png" group-title="USA",[USA]_BOOMERANG_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2571
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_SPIKE_HD" tvg-logo="http://fullboxiptv.com/img/spike.png" group-title="USA",[USA]_SPIKE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2547
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_UNIVERSAL_KIDS" tvg-logo="http://fullboxiptv.com/img/universalkids.png" group-title="USA",[USA]_UNIVERSAL_KIDS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2526
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4758
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_WWE_HD" tvg-logo="http://fullboxiptv.com/img/wwehd.png" group-title="USA",[USA]_WWE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/382
+#EXTINF:-1 tvg-ID="" tvg-name="[CA]_BET" tvg-logo="http://fullboxiptv.com/img/betcan.jpg" group-title="CANADA TV",[CA]_BET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4979
+#EXTINF:-1 tvg-ID="USA Network (East) (USA) US" tvg-name="[USA]_USA_NETWORK" tvg-logo="http://fullboxiptv.com/img/USANETWORK.png" group-title="USA",[USA]_USA_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4983
+#EXTINF:-1 tvg-ID="Cartoon Network HDTV (East) (TOONHD) US" tvg-name="[USA]_CARTOON_NETWORK" tvg-logo="http://fullboxiptv.com/img/cartoon_network.jpeg" group-title="USA",[USA]_CARTOON_NETWORK
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4956
+#EXTINF:-1 tvg-ID="" tvg-name="[CA]_CTV2" tvg-logo="http://fullboxiptv.com/img/CTV2.png" group-title="CANADA TV",[CA]_CTV2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4972
+#EXTINF:-1 tvg-ID="KTLA Los Angeles, CA" tvg-name="[CA]_KTLA" tvg-logo="http://fullboxiptv.com/img/KTLA.jpg" group-title="CANADA TV",[CA]_KTLA
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4953
+#EXTINF:-1 tvg-ID="Bravo (East) (BRAVO) US" tvg-name="[USA]_BRAVO_HD" tvg-logo="http://fullboxiptv.com/img/BRAVO.jpeg" group-title="USA",[USA]_BRAVO_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4982
+#EXTINF:-1 tvg-ID="Showtime HDTV (East) (SHOHD) US" tvg-name="[USA]_SHOWTIME_HD" tvg-logo="http://fullboxiptv.com/img/SHOWTIME.png" group-title="USA",[USA]_SHOWTIME_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4955
+#EXTINF:-1 tvg-ID="CBS US" tvg-name="[USA]_CBS_HD" tvg-logo="http://fullboxiptv.com/img/CBSHD.png" group-title="USA",[USA]_CBS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4969
+#EXTINF:-1 tvg-ID="Fox News Channel HDTV (FNCHD) US" tvg-name="[USA]_FOX_NEWS" tvg-logo="http://fullboxiptv.com/img/FOXNEWS.png" group-title="USA",[USA]_FOX_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4952
+#EXTINF:-1 tvg-ID="E! Entertainment Television HDTV (East) (E! HD) US" tvg-name="[USA]_E!_ENTERTAINMENT" tvg-logo="http://fullboxiptv.com/img/entertaiment.jpg" group-title="USA",[USA]_E!_ENTERTAINMENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4958
+#EXTINF:-1 tvg-ID="AMC US" tvg-name="[USA]_AMC" tvg-logo="http://fullboxiptv.com/img/amc.jpg" group-title="USA",[USA]_AMC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4968
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_CW_HD" tvg-logo="http://fullboxiptv.com/img/CWHD.jpg" group-title="USA",[USA]_CW_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4967
+#EXTINF:-1 tvg-ID="Cartoon Network (East) (TOON) US" tvg-name="[CA]_CBC_Montreal" tvg-logo="http://fullboxiptv.com/img/cbcmontreal.jpg" group-title="CANADA TV",[CA]_CBC_Montreal
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4954
+#EXTINF:-1 tvg-ID="Comedy Central On Demand (CCOD) US" tvg-name="[USA]_COMEDY_CENTRAL" tvg-logo="http://fullboxiptv.com/img/comedycentral.png" group-title="USA",[USA]_COMEDY_CENTRAL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4966
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_TRUE_TV" tvg-logo="http://fullboxiptv.com/img/TRUTV.png" group-title="USA",[USA]_TRUE_TV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4977
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_TLC" tvg-logo="http://fullboxiptv.com/img/TLC.jpg" group-title="USA",[USA]_TLC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4980
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_FXM" tvg-logo="http://fullboxiptv.com/img/fxm.png" group-title="USA",[USA]_FXM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4964
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_DISCOVERY_SCIENCE" tvg-logo="http://fullboxiptv.com/img/Discovery_Science_HD.png" group-title="USA",[USA]_DISCOVERY_SCIENCE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4978
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_MTV" tvg-logo="http://fullboxiptv.com/img/mtv.png" group-title="USA",[USA]_MTV
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4976
+#EXTINF:-1 tvg-ID="NBA TV Canada" tvg-name="[CA]_NBA_TV_HD" tvg-logo="http://fullboxiptv.com/img/nbatv.png" group-title="CANADA TV",[CA]_NBA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4959
+#EXTINF:-1 tvg-ID="" tvg-name="[CA]_Omni_1HD" tvg-logo="http://fullboxiptv.com/img/OMNI1.png" group-title="CANADA TV",[CA]_Omni_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4975
+#EXTINF:-1 tvg-ID="Cinemax (West) (MAX) US" tvg-name="[USA]_CINEMAX_ACTION_MAX_HD" tvg-logo="http://fullboxiptv.com/img/cinemaxactionmax.png" group-title="USA",[USA]_CINEMAX_ACTION_MAX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4970
+#EXTINF:-1 tvg-ID="FX Movie Channel (FXM) US" tvg-name="[USA]_FX_HD" tvg-logo="http://fullboxiptv.com/img/FXHD.png" group-title="USA",[USA]_FX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4965
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_ABC_NEWS" tvg-logo="http://fullboxiptv.com/img/ABCNEWS.jpg" group-title="USA",[USA]_ABC_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4957
+#EXTINF:-1 tvg-ID="Discovery Channel US" tvg-name="[USA]_DISCOVERY_CHANNEL" tvg-logo="http://fullboxiptv.com/img/Discovery-Channel-logo.png" group-title="USA",[USA]_DISCOVERY_CHANNEL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4961
+#EXTINF:-1 tvg-ID="The NFL Network (NFL) US" tvg-name="[USA]_NFL_Network" tvg-logo="http://fullboxiptv.com/img/nflnetwork.png" group-title="USA",[USA]_NFL_Network
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4974
+#EXTINF:-1 tvg-ID="FXX HDTV (East) (FXXHD) US" tvg-name="[USA]_FXX HD" tvg-logo="http://fullboxiptv.com/img/fxxhd.png" group-title="USA",[USA]_FXX HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4981
+#EXTINF:-1 tvg-ID="Animal Planet On Demand (APOD) US" tvg-name="[USA]_ANIMAL_PLANET" tvg-logo="http://fullboxiptv.com/img/ANIMALPLANET.png" group-title="USA",[USA]_ANIMAL_PLANET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4963
+#EXTINF:-1 tvg-ID="ABC Family Channel HDTV (East) (ABCF) US" tvg-name="[USA]_ABC" tvg-logo="http://fullboxiptv.com/img/ABCTV.jpg" group-title="USA",[USA]_ABC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4951
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_TCM" tvg-logo="http://fullboxiptv.com/img/tcmtv.png" group-title="USA",[USA]_TCM
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4962
+#EXTINF:-1 tvg-ID="NBC US" tvg-name="[USA]_NBC" tvg-logo="http://fullboxiptv.com/img/nbc.jpg" group-title="USA",[USA]_NBC
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4950
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^UK*SPORT^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^UK*SPORT^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^UK*SPORT^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^UK*SPORT^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^UK*SPORT^^^^^^^^^^^^^^^^^^^^^
+#EXTM3U
+#EXTINF:-1 tvg-ID="BOX Nation UK" tvg-name="[UK]_BOX-NATION" tvg-logo="http://fullboxiptv.com/img/boxnation.png" group-title="SPORTS TV ARABE",[UK]_BOX-NATION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/244
+#EXTINF:-1 tvg-ID="UK-409 SkySp News" tvg-name="[UK]_SKY_SPORTS_NEWS_HD" tvg-logo="http://fullboxiptv.com/img/skysnews.png" group-title="UK TV",[UK]_SKY_SPORTS_NEWS_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/233
+#EXTINF:-1 tvg-ID="UK-401 SkySpMainEv" tvg-name="[UK]_SKY_SPORTS_MAIN_EVENT" tvg-logo="http://fullboxiptv.com/img/skysmainevent.png" group-title="UK TV",[UK]_SKY_SPORTS_MAIN_EVENT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2497
+#EXTINF:-1 tvg-ID="Sky Sports Main Event HD" tvg-name="[UK]_SKY_SPORTS_MAIN_EVENT_HD" tvg-logo="http://fullboxiptv.com/img/skysmainev.png" group-title="UK TV",[UK]_SKY_SPORTS_MAIN_EVENT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/132
+#EXTINF:-1 tvg-ID="UK-404 SkySpCricket" tvg-name="[UK]_SKY_SPORTS_CRICKET" tvg-logo="http://fullboxiptv.com/img/skyscricket.jpg" group-title="UK TV",[UK]_SKY_SPORTS_CRICKET
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2498
+#EXTINF:-1 tvg-ID="SkyCricket" tvg-name="[UK]_SKY_SPORTS_CRICKET_HD" tvg-logo="http://fullboxiptv.com/img/skysport cricket.png" group-title="UK TV",[UK]_SKY_SPORTS_CRICKET_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/131
+#EXTINF:-1 tvg-ID="UK-407 SkySp Action" tvg-name="[UK]_SKY_SPORTS_ACTION" tvg-logo="http://fullboxiptv.com/img/SkySportsAction_201708.png" group-title="UK TV",[UK]_SKY_SPORTS_ACTION
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2499
+#EXTINF:-1 tvg-ID="Sky Sports Action UK" tvg-name="[UK]_SKY_SPORTS_ACTION_HD" tvg-logo="http://fullboxiptv.com/img/SkySportsAction_201708.png" group-title="UK TV",[UK]_SKY_SPORTS_ACTION_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/130
+#EXTINF:-1 tvg-ID="UK-405 SkySp Golf" tvg-name="[UK]_SKY_SPORTS_GOLF_HD" tvg-logo="http://fullboxiptv.com/img/skyuksgolf.png" group-title="UK TV",[UK]_SKY_SPORTS_GOLF_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2500
+#EXTINF:-1 tvg-ID="UK-408 SkySp Arena" tvg-name="[UK]_SKY_SPORTS_ARENA_HD" tvg-logo="http://fullboxiptv.com/img/ss-arena-live-stream.jpg" group-title="UK TV",[UK]_SKY_SPORTS_ARENA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/129
+#EXTINF:-1 tvg-ID="UK-402 SkySp PL" tvg-name="[UK]_SKY_SPORTS_PREMIER_LEAGUE" tvg-logo="http://fullboxiptv.com/img/Sky-Sportspremeroliga.jpg" group-title="UK TV",[UK]_SKY_SPORTS_PREMIER_LEAGUE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2501
+#EXTINF:-1 tvg-ID="UK-402 SkySp PL" tvg-name="[UK]_SKY_SPORTS_PREMIER_LEAGUE_HD" tvg-logo="http://fullboxiptv.com/img/SKY_SPORTS_PREMIER_LEAGUE_HD.png" group-title="UK TV",[UK]_SKY_SPORTS_PREMIER_LEAGUE_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/128
+#EXTINF:-1 tvg-ID="UK-406 SkySp F1" tvg-name="[UK]_SKY_SPORTS_F1" tvg-logo="http://fullboxiptv.com/img/skyukf1.png" group-title="UK TV",[UK]_SKY_SPORTS_F1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/388
+#EXTINF:-1 tvg-ID="UK-121 SkySp Mix" tvg-name="[UK]_SKY_SPORTS_MIX" tvg-logo="http://fullboxiptv.com/img/skysmix.png" group-title="UK TV",[UK]_SKY_SPORTS_MIX
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2496
+#EXTINF:-1 tvg-ID="UK-121 SkySp Mix" tvg-name="[UK]_SKY_SPORTS_MIX_HD" tvg-logo="http://fullboxiptv.com/img/skysmix.png" group-title="UK TV",[UK]_SKY_SPORTS_MIX_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2495
+#EXTINF:-1 tvg-ID="SkySportsBoxOffice.uk" tvg-name="[UK]_BOX_OFFICE_PPV_(LIVE_DURING_BOXING_MATCH)" tvg-logo="http://fullboxiptv.com/img/skyboxofficepng.png" group-title="UK TV",[UK]_BOX_OFFICE_PPV_(LIVE_DURING_BOXING_MATCH)
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/728
+#EXTINF:-1 tvg-ID="BTSportX1.uk" tvg-name="[UK]_BT_SPORT_EXTRA_1" tvg-logo="http://fullboxiptv.com/img/btsportxtra1.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/735
+#EXTINF:-1 tvg-ID="UK-413 BT Sport 1" tvg-name="[UK]_BT_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/bt-sport-1.png" group-title="UK TV",[UK]_BT_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2502
+#EXTINF:-1 tvg-ID="UK-414 BT Sport 2" tvg-name="[UK]_BT_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/btsport2hd.png" group-title="UK TV",[UK]_BT_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2503
+#EXTINF:-1 tvg-ID="UK-417 BT Sport 3" tvg-name="[UK]_BT_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/btsport3hd.png" group-title="UK TV",[UK]_BT_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/2504
+#EXTINF:-1 tvg-ID="UK-413 BT Sport 1" tvg-name="[UK]_BT_SPORT_1" tvg-logo="http://fullboxiptv.com/img/bt-sport-1.png" group-title="UK TV",[UK]_BT_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/134
+#EXTINF:-1 tvg-ID="UK-414 BT Sport 2" tvg-name="[UK]_BT_SPORT_2" tvg-logo="http://fullboxiptv.com/img/btsport2.png" group-title="UK TV",[UK]_BT_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/133
+#EXTINF:-1 tvg-ID="UK-458 BTSpt//ESPNHD" tvg-name="[UK]_BT_SPORT_ESPN" tvg-logo="http://fullboxiptv.com/img/btsportespn.jpg" group-title="UK TV",[UK]_BT_SPORT_ESPN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/734
+#EXTINF:-1 tvg-ID="BTSports3 HD" tvg-name="[UK]_BT_SPORT_3" tvg-logo="http://fullboxiptv.com/img/bts3.png" group-title="UK TV",[UK]_BT_SPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/234
+#EXTINF:-1 tvg-ID="BT Sport X2" tvg-name="[UK]_BT_SPORT_EXTRA_2" tvg-logo="http://fullboxiptv.com/img/btsextra2.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1797
+#EXTINF:-1 tvg-ID="BT Sport X3" tvg-name="[UK]_BT_SPORT_EXTRA_3" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_3.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1798
+#EXTINF:-1 tvg-ID="VM Sport Extra 4 HD" tvg-name="[UK]_BT_SPORT_EXTRA_4" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_4.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1799
+#EXTINF:-1 tvg-ID="BT Sport X5" tvg-name="[UK]_BT_SPORT_EXTRA_5" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_5.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1800
+#EXTINF:-1 tvg-ID="BTSportX6.uk" tvg-name="[UK]_BT_SPORT_EXTRA_6" tvg-logo="http://fullboxiptv.com/img/bt_sport_uk_extra_6.png" group-title="UK TV",[UK]_BT_SPORT_EXTRA_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/1801
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@
+@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@US/CA*SPORT@@@@@@@@@@@@@@@@@@@@@
+#EXTM3U
+#EXTINF:-1 tvg-ID="CBS Sports Network (CBSSN) US" tvg-name="[USA]_CBS_SPORTS_NETWORK_HD" tvg-logo="http://fullboxiptv.com/img/CBSSPORTNETWORK.png" group-title="USA",[USA]_CBS_SPORTS_NETWORK_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4973
+#EXTINF:-1 tvg-ID="beIN Sports (English) (BEIN) US" tvg-name="[USA]_beIN_SPORTS_US_HD" tvg-logo="http://fullboxiptv.com/img/beinsportusa.jpg" group-title="USA",[USA]_beIN_SPORTS_US_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4758
+#EXTINF:-1 tvg-ID="Fox Sports 1 (FS1) US" tvg-name="[USA]_FOX_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/fs1.png" group-title="USA",[USA]_FOX_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/384
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_FOX_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/fs2.png" group-title="USA",[USA]_FOX_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/383
+#EXTINF:-1 tvg-ID="NBC Sports Network HD" tvg-name="[USA]_NBC_SPORT" tvg-logo="http://fullboxiptv.com/img/nbcsport.png" group-title="USA",[USA]_NBC_SPORT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/245
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_ESPN" tvg-logo="http://fullboxiptv.com/img/ESPN.png" group-title="USA",[USA]_ESPN
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/246
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_ESPN_2HD" tvg-logo="http://fullboxiptv.com/img/espn2.png" group-title="USA",[USA]_ESPN_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/799
+#EXTINF:-1 tvg-ID="" tvg-name="[USA]_NBA_TV_HD" tvg-logo="http://fullboxiptv.com/img/nbatv.png" group-title="USA",[USA]_NBA_TV_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/804
+#EXTINF:-1 tvg-ID="TSN 1" tvg-name="[USA]_TSN_1_HD" tvg-logo="http://fullboxiptv.com/img/tsn_1.png" group-title="USA",[USA]_TSN_1_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4169
+#EXTINF:-1 tvg-ID="TSN 2" tvg-name="[USA]_TSN_2_HD" tvg-logo="http://fullboxiptv.com/img/tsn2hd.png" group-title="USA",[USA]_TSN_2_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4170
+#EXTINF:-1 tvg-ID="TSN 3" tvg-name="[USA]_TSN_3_HD" tvg-logo="http://fullboxiptv.com/img/tsn3.png" group-title="USA",[USA]_TSN_3_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4171
+#EXTINF:-1 tvg-ID="TSN 4" tvg-name="[USA]_TSN_4_HD" tvg-logo="http://fullboxiptv.com/img/tsn4.png" group-title="USA",[USA]_TSN_4_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4172
+#EXTINF:-1 tvg-ID="TSN 5" tvg-name="[USA]_TSN_5_HD" tvg-logo="http://fullboxiptv.com/img/tsn5.png" group-title="USA",[USA]_TSN_5_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4173
+#EXTINF:-1 tvg-ID="beIN Sport Canada HD" tvg-name="[CA]_beIN_SPORTS_CANADA_HD" tvg-logo="http://fullboxiptv.com/img/bincan.jpg" group-title="CANADA TV",[CA]_beIN_SPORTS_CANADA_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4971
+*********************************************************************************************************************************************************
+******************OTHER*SPORT********************************OTHER*SPORT*****************************************OTHER*SPORT*****************************
+***********************************OTHER*SPORT************************************OTHER*SPORT************************************************************
+#EXTM3U
+#EXTINF:-1 tvg-ID="Sport Klub 1" tvg-name="[SPORT]_SPORT_KLUB_1" tvg-logo="http://fullboxiptv.com/img/sportklub1.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/429
+#EXTINF:-1 tvg-ID="Sport Klub 2 HD" tvg-name="[SPORT]_SPORT_KLUB_2" tvg-logo="http://fullboxiptv.com/img/sk2hd.png" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/430
+#EXTINF:-1 tvg-ID="Sport Klub 3 SLO" tvg-name="[SPORT]_SPORT_KLUB_3" tvg-logo="http://fullboxiptv.com/img/sk3hd.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/431
+#EXTINF:-1 tvg-ID="Sport Klub 4" tvg-name="[SPORT]_SPORT_KLUB_4" tvg-logo="http://fullboxiptv.com/img/sk4.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/428
+#EXTINF:-1 tvg-ID="Sport Klub 5" tvg-name="[SPORT]_SPORT_KLUB_5" tvg-logo="http://fullboxiptv.com/img/sportkluib5.jpg" group-title="SPORTS TV ARABE",[SPORT]_SPORT_KLUB_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/298
+#EXTINF:-1 tvg-ID="Arena Sport 1 HD" tvg-name="[SPORT]_ARENASPORT_1" tvg-logo="http://fullboxiptv.com/img/arenas1.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/65
+#EXTINF:-1 tvg-ID="Arena Sport 2 HD" tvg-name="[SPORT]_ARENASPORT_2" tvg-logo="http://fullboxiptv.com/img/arenas2.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/64
+#EXTINF:-1 tvg-ID="Arena Sport 3 HD" tvg-name="[SPORT]_ARENASPORT_3" tvg-logo="http://fullboxiptv.com/img/arenas3.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/63
+#EXTINF:-1 tvg-ID="Arena Sport 4 HD" tvg-name="[SPORT]_ARENASPORT_4" tvg-logo="http://fullboxiptv.com/img/arenas4.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/62
+#EXTINF:-1 tvg-ID="Arena Sport 5" tvg-name="[SPORT]_ARENASPORT_5" tvg-logo="http://fullboxiptv.com/img/arenas5.png" group-title="SPORTS TV ARABE",[SPORT]_ARENASPORT_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/61
+#EXTINF:-1 tvg-ID="" tvg-name="[SPORT]_VOO_SPORT1" tvg-logo="http://fullboxiptv.com/img/voosport1.png" group-title="Belgique",[SPORT]_VOO_SPORT1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4126
+#EXTINF:-1 tvg-ID="" tvg-name="[SPORT]_VOO_SPORT2" tvg-logo="http://fullboxiptv.com/img/VOOsport-World-2.png" group-title="Belgique",[SPORT]_VOO_SPORT2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4127
+#EXTINF:-1 tvg-ID="" tvg-name="[SPORT]_ELEVEN_SPORT_1HD" tvg-logo="http://fullboxiptv.com/img/elevensports_1_icon_20171214.png" group-title="Belgique",[SPORT]_ELEVEN_SPORT_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5121
+#EXTINF:-1 tvg-ID="" tvg-name="[SPORT]_ELEVEN_SPORT_2HD" tvg-logo="http://fullboxiptv.com/img/elevensports_2_icon_20171214.png" group-title="Belgique",[SPORT]_ELEVEN_SPORT_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5122
+#EXTINF:-1 tvg-ID="EXTREME SPORTS" tvg-name="[SPORT]_EXTREME_SPORT_HD" tvg-logo="http://fullboxiptv.com/img/xtreamsportchannel.png" group-title="SPORTS TV FRANCE",[SPORT]_EXTREME_SPORT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/3516
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="[SPORT]_GOLF+" tvg-logo="http://fullboxiptv.com/img/golf+.jpg" group-title="SPORTS TV FRANCE",[SPORT]_GOLF+
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/247
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="[SPORT]_L'EQUIPE21" tvg-logo="http://fullboxiptv.com/img/lequipe211.jpg" group-title="SPORTS TV FRANCE",[SPORT]_L'EQUIPE21
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/218
+#EXTINF:-1 tvg-ID="JOne" tvg-name="[SPORT]_J_ONE" tvg-logo="http://fullboxiptv.com/img/jonetv.png" group-title="CSAT-FRANCE",[SPORT]_J_ONE
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/610
+#EXTINF:-1 tvg-ID="EurosportFrance" tvg-name="[SPORT]_EUROSPORT1-HD" tvg-logo="http://fullboxiptv.com/img/europsort-1-HD.jpg" group-title="SPORTS TV FRANCE",[SPORT]_EUROSPORT1-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/644
+#EXTINF:-1 tvg-ID="Eurosport2France" tvg-name="[SPORT]_EUROSPORT2-HD" tvg-logo="http://fullboxiptv.com/img/eurosport-2-hd.png" group-title="SPORTS TV FRANCE",[SPORT]_EUROSPORT2-HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/3401
+#EXTINF:-1 tvg-ID="Kombat Sport" tvg-name="[SPORT]_KOMBAT_SPORT" tvg-logo="http://fullboxiptv.com/img/LOGO-Kombat_Sport.png" group-title="SPORTS TV FRANCE",[SPORT]_KOMBAT_SPORT
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/3397
+#EXTINF:-1 tvg-ID="" tvg-name="[SPORT]_FOOT_24/24" tvg-logo="http://fullboxiptv.com/img/footplus.png" group-title="SPORTS TV FRANCE",[SPORT]_FOOT_24/24
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/216
+#EXTINF:-1 tvg-ID="Infosportplus" tvg-name="[SPORT]_INFOSPORT_HD" tvg-logo="http://fullboxiptv.com/img/infosport-HD.png" group-title="SPORTS TV FRANCE",[SPORT]_INFOSPORT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/217
+#EXTINF:-1 tvg-ID="Infosportplus" tvg-name="[SPORT]_INFOSPORT+_FHD" tvg-logo="http://fullboxiptv.com/img/infosport-HD.png" group-title="SPORTS TV FRANCE",[SPORT]_INFOSPORT+_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4793
+#EXTINF:-1 tvg-ID="beINSPORTS1" tvg-name="[SPORT]_beIN_SPORTS_1HD" tvg-logo="http://fullboxiptv.com/img/b1.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_1HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/75
+#EXTINF:-1 tvg-ID="beINSPORTS1" tvg-name="[SPORT]_beIN_SPORTS_1_FHD" tvg-logo="http://fullboxiptv.com/img/b1.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_1_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4167
+#EXTINF:-1 tvg-ID="beINSPORTS2" tvg-name="[SPORT]_beIN_SPORTS_2HD" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_2HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/214
+#EXTINF:-1 tvg-ID="beINSPORTS2" tvg-name="[SPORT]_beIN_SPORTS_2_FHD" tvg-logo="http://fullboxiptv.com/img/be2.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_2_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4314
+#EXTINF:-1 tvg-ID="beINSPORTS3" tvg-name="[SPORT]_beIN_SPORTS_3HD" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_3HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/215
+#EXTINF:-1 tvg-ID="beINSPORTS3" tvg-name="[SPORT]_beIN_SPORTS_3_FHD" tvg-logo="http://fullboxiptv.com/img/be3.jpg" group-title="SPORTS TV FRANCE",[SPORT]_beIN_SPORTS_3_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4315
+#EXTINF:-1 tvg-ID="beINSPORTS4" tvg-name="[SPORT]_BeIN_SPORTS_MAX_4_local" tvg-logo="http://fullboxiptv.com/img/bmx4.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_4_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/693
+#EXTINF:-1 tvg-ID="beINSPORTS5" tvg-name="[SPORT]_BeIN_SPORTS_MAX_5_local" tvg-logo="http://fullboxiptv.com/img/bmx4.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_5_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/694
+#EXTINF:-1 tvg-ID="beINSPORTS6" tvg-name="[SPORT]_BeIN_SPORTS_MAX_6_local" tvg-logo="http://fullboxiptv.com/img/bein6max.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_6_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/695
+#EXTINF:-1 tvg-ID="beINSPORTS7" tvg-name="[SPORT]_BeIN_SPORTS_MAX_7_local" tvg-logo="http://fullboxiptv.com/img/bmx7.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_7_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/696
+#EXTINF:-1 tvg-ID="beINSPORTS8" tvg-name="[SPORT]_BeIN_SPORTS_MAX_8_local" tvg-logo="http://fullboxiptv.com/img/bmax8.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_8_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/697
+#EXTINF:-1 tvg-ID="beINSPORTS9" tvg-name="[SPORT]_BeIN_SPORTS_MAX_9_local" tvg-logo="http://fullboxiptv.com/img/be9max.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_9_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/698
+#EXTINF:-1 tvg-ID="beINSPORTS10" tvg-name="[SPORT]_BeIN_SPORTS_MAX_10_local" tvg-logo="http://fullboxiptv.com/img/bmax10.png" group-title="SPORTS TV FRANCE",[SPORT]_BeIN_SPORTS_MAX_10_local
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/699
+#EXTINF:-1 tvg-ID="BFMSport" tvg-name="[SPORT]_RMC_SPORT_NEWS" tvg-logo="http://fullboxiptv.com/img/RMCSNEWS.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_NEWS
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/723
+#EXTINF:-1 tvg-ID="SFRSport1.fr" tvg-name="[SPORT]_RMC_SPORT_1" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/259
+#EXTINF:-1 tvg-ID="SFRSport1.fr" tvg-name="[SPORT]_RMC_SPORT_1_LOCAL" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_1_LOCAL
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4808
+#EXTINF:-1 tvg-ID="SFRSport1.fr" tvg-name="[SPORT]_RMC_SPORT_1_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS1.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_1_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4789
+#EXTINF:-1 tvg-ID="RMCSportAccess1" tvg-name="[SPORT]_RMC_SPORT_ACCESS_1" tvg-logo="http://fullboxiptv.com/img/rmcaccess1.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_ACCESS_1
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/7514
+#EXTINF:-1 tvg-ID="SFRSport2.fr" tvg-name="[SPORT]_RMC_SPORT_2" tvg-logo="http://fullboxiptv.com/img/RMCS2.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/258
+#EXTINF:-1 tvg-ID="SFRSport2.fr" tvg-name="[SPORT]_RMC_SPORT_2_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS2.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_2_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4790
+#EXTINF:-1 tvg-ID="RMCSportAccess2" tvg-name="[SPORT]_RMC_SPORT_ACCESS_2" tvg-logo="http://fullboxiptv.com/img/rmcaccess2.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_ACCESS_2
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/7515
+#EXTINF:-1 tvg-ID="SFRSport3.fr" tvg-name="[SPORT]_RMC_SPORT_3" tvg-logo="http://fullboxiptv.com/img/RMCS3.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/528
+#EXTINF:-1 tvg-ID="SFRSport3.fr" tvg-name="[SPORT]_RMC_SPORT_3_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS3.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_3_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4791
+#EXTINF:-1 tvg-ID="RMCSportAccess3" tvg-name="[SPORT]_RMC_SPORT_ACCESS_3" tvg-logo="http://fullboxiptv.com/img/rmcaccess3.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_ACCESS_3
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/7516
+#EXTINF:-1 tvg-ID="SFRSport5.fr" tvg-name="[SPORT]_RMC_SPORT_4" tvg-logo="http://fullboxiptv.com/img/RMCS4.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_4
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/726
+#EXTINF:-1 tvg-ID="SFRSport5.fr" tvg-name="[SPORT]_RMC_SPORT_4_FHD" tvg-logo="http://fullboxiptv.com/img/RMCS4.jpg" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_4_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4792
+#EXTINF:-1 tvg-ID="RMCSportLive5" tvg-name="[SPORT]_RMC_SPORT_LIVE_5" tvg-logo="http://fullboxiptv.com/img/rmc-live5.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_5
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5968
+#EXTINF:-1 tvg-ID="RMCSportLive6" tvg-name="[SPORT]_RMC_SPORT_LIVE_6" tvg-logo="http://fullboxiptv.com/img/rmc-live6.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_6
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5969
+#EXTINF:-1 tvg-ID="RMCSportLive7" tvg-name="[SPORT]_RMC_SPORT_LIVE_7" tvg-logo="http://fullboxiptv.com/img/rmc-live7.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_7
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5970
+#EXTINF:-1 tvg-ID="RMCSportLive8" tvg-name="[SPORT]_RMC_SPORT_LIVE_8" tvg-logo="http://fullboxiptv.com/img/rmc-live8.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_8
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5971
+#EXTINF:-1 tvg-ID="RMCSportLive9" tvg-name="[SPORT]_RMC_SPORT_LIVE_9" tvg-logo="http://fullboxiptv.com/img/rmc-live9.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_9
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5972
+#EXTINF:-1 tvg-ID="RMCSportLive10" tvg-name="[SPORT]_RMC_SPORT_LIVE_10" tvg-logo="http://fullboxiptv.com/img/rmc-live10.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_10
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5973
+#EXTINF:-1 tvg-ID="RMCSportLive11" tvg-name="[SPORT]_RMC_SPORT_LIVE_11" tvg-logo="http://fullboxiptv.com/img/rmc-live11.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_11
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5974
+#EXTINF:-1 tvg-ID="RMCSportLive12" tvg-name="[SPORT]_RMC_SPORT_LIVE_12" tvg-logo="http://fullboxiptv.com/img/rmc-live12.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_12
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5975
+#EXTINF:-1 tvg-ID="RMCSportLive13" tvg-name="[SPORT]_RMC_SPORT_LIVE_13" tvg-logo="http://fullboxiptv.com/img/rmc-live13.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_13
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5976
+#EXTINF:-1 tvg-ID="RMCSportLive14" tvg-name="[SPORT]_RMC_SPORT_LIVE_14" tvg-logo="http://fullboxiptv.com/img/rmc-live14.png" group-title="SPORTS TV FRANCE",[SPORT]_RMC_SPORT_LIVE_14
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/5977
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="[SPORT]_CANAL+_SPORT_HD" tvg-logo="http://fullboxiptv.com/img/canalplusport.png" group-title="SPORTS TV FRANCE",[SPORT]_CANAL+_SPORT_HD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/125
+#EXTINF:-1 tvg-ID="CanalPlusSport1" tvg-name="[SPORT]_CANAL+_SPORT_FHD" tvg-logo="http://fullboxiptv.com/img/canalplusport.png" group-title="SPORTS TV FRANCE",[SPORT]_CANAL+_SPORT_FHD
+http://live.maxcimo.com:8000/moradplus4ou42kjgbb/momo9237c1/4798
 >>>>>>>>>>>>>>>>>>>> 2  <<<<<<<<<<<<<<<<<
 #EXTM3U 
 #EXTINF:-1,DisneyPH http://190.13.120.115/streams/disneyph.m3u8
